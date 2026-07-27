@@ -1,0 +1,13 @@
+name = "Stellarity Better Combat RP Fix"
+filename = "STBC-Fix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CJdAEeag/versions/uKAYfczP/STBC-Fix.zip"
+hash-format = "sha512"
+hash = "02c5362e783e70d1101b172c189853a6f92a5bbefbb976a79c55e8cb8ca68edb7675d32527734874907a061ea5b45df075bbc971bd4e99e2b5426750ca6aaabc"
+
+[update]
+[update.modrinth]
+mod-id = "CJdAEeag"
+version = "uKAYfczP"

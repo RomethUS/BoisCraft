@@ -1200,8 +1200,13 @@ hash = "0e12b4e6167f5e98e8b7e934bfbd16897461e008b6cd8e1b762c216f181812f9"
 metafile = true
 
 [[files]]
+file = "mods/stellarity-better-combat-addon.pw.toml"
+hash = "9a4c691d040cc24afe2f6230e6ba0a86e61eaae8a2869afad54e197c4888efa4"
+metafile = true
+
+[[files]]
 file = "mods/stellarity.pw.toml"
-hash = "913c87f06857600de2525cfece6fb0c61a448fbb6f0fe58a16fc789fefa1c190"
+hash = "61aaf20ee728000bc6d9398f1a28d15d19120bc6b5bfb3e0b0b0ef163e195c81"
 metafile = true
 
 [[files]]
@@ -1457,4 +1462,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/glowing-weapon-tools.pw.toml"
 hash = "e5087d72ceef8bd9debf7e0bf2e362f5dbb7d39d516e37a6220517afbac8e712"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellarity-bettercombat-rp-fix.pw.toml"
+hash = "e585aa6d5a97da59109f09b67346440a4c9d5ae0b37548ce39d5bfae2951d41e"
 metafile = true

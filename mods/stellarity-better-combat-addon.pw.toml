@@ -1,0 +1,13 @@
+name = "Stellarity Better Combat Addon"
+filename = "stellarity-better-combat-addon-5.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpCJKqzS/versions/nvcjL4t3/stellarity-better-combat-addon-5.4.2.jar"
+hash-format = "sha512"
+hash = "e05c165d5cb0437d1434798cdcfa60b2cbf987e1f6f5456a1e954ec42b30540bd228b2999dc77a46386258aaeafcf6a0877d7de3adca9e392392846b976f67de"
+
+[update]
+[update.modrinth]
+mod-id = "WpCJKqzS"
+version = "nvcjL4t3"
