@@ -1,0 +1,13 @@
+name = "Floral Enchantment"
+filename = "Floral Enchantment-fabric-1.21.11-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oprx59lK/versions/JH8vSv0b/Floral%20Enchantment-fabric-1.21.11-1.2.3.jar"
+hash-format = "sha512"
+hash = "2cafb4978eec3a495623cbc5ed5db3e098f30e80573aa3b8565ccfe5395a538a6f5527f149553fdba75beafe1f54b1c1c6358ed818e6cf1a523009984fce05a2"
+
+[update]
+[update.modrinth]
+mod-id = "Oprx59lK"
+version = "JH8vSv0b"

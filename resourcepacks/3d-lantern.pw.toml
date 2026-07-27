@@ -1,0 +1,13 @@
+name = "3D Lantern"
+filename = "3D Lantern.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q1I7eVTa/versions/O7zupemD/3D%20Lantern.zip"
+hash-format = "sha512"
+hash = "832d8e6d35ffdcad5df20f40ea3fe14b05a37da047124cfd15473c8b1d0dd0b885022941df444484c443a74dd6193107883649a9903268b04f0dd66afa52b2ae"
+
+[update]
+[update.modrinth]
+mod-id = "q1I7eVTa"
+version = "O7zupemD"

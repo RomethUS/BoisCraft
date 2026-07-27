@@ -1,0 +1,13 @@
+name = "Flora's Delight"
+filename = "flora-1.0.4-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Wz1FfTK/versions/hGZ13xGe/flora-1.0.4-1.21.11.jar"
+hash-format = "sha512"
+hash = "6002966c64e1cd38237516c01f1e89d8f89cc9ad3ae6d3fff590d638179f534ed3ba3554780992a2d1c1c474795be8cc09290774639e5d1258e73a82e6f97f64"
+
+[update]
+[update.modrinth]
+mod-id = "7Wz1FfTK"
+version = "hGZ13xGe"

@@ -1,0 +1,13 @@
+name = "EXP Counter"
+filename = "expcounter-1.21.11-fabric-2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lPSTdJm7/versions/PxGJEfWp/expcounter-1.21.11-fabric-2.5.jar"
+hash-format = "sha512"
+hash = "fce6f208374ba070cda0f7fe80c656671de960870d9328a9682c5f506eb70587a047fa53c76bea6cc17d9fb4a522d40384b55d8a9a25ab503e8aac75f49d288e"
+
+[update]
+[update.modrinth]
+mod-id = "lPSTdJm7"
+version = "PxGJEfWp"

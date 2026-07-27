@@ -1,0 +1,13 @@
+name = "Glowing Trim Elytra"
+filename = "Glowing Trim Elytra[MG-5.0][1.21.11].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OXong6G/versions/bcOBRcai/Glowing%20Trim%20Elytra%5BMG-5.0%5D%5B1.21.11%5D.zip"
+hash-format = "sha512"
+hash = "da5b8b70635acb7ec358ebed629b774c05199a63bb850a4b5eaca2b1838e767f2ab4db2d1372ad08e084fdf229300639ce75dc3fbfb9066b9d36209d4cfd9e06"
+
+[update]
+[update.modrinth]
+mod-id = "2OXong6G"
+version = "bcOBRcai"

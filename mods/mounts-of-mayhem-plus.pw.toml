@@ -1,0 +1,13 @@
+name = "Mounts of Mayhem Plus"
+filename = "mounts-of-mayhem-plus-V1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2iHzKP7b/versions/DLRGDBeL/mounts-of-mayhem-plus-V1.1.jar"
+hash-format = "sha512"
+hash = "2723be9679dbd7576749803170a4d913d0518c91699eb9662f549de2ed9277eda27e507ad130fe8e9aab5ac0fea3f0730fa5aee0d37a1954b1033829fd798b7c"
+
+[update]
+[update.modrinth]
+mod-id = "2iHzKP7b"
+version = "DLRGDBeL"

@@ -1,0 +1,13 @@
+name = "Kitchen Projectiles"
+filename = "kitchenprojectiles-1.0.8-alpha+mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYmvNgRP/versions/JCEmM7PN/kitchenprojectiles-1.0.8-alpha%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "f1f9f208de7b83cc4b9044af9ae6cabbfd9f1a66b6aaba40256b2ef3dae6847fad05631b9ec169528a9e2e206246349580a9d9702dfafd7c90e78ec2ecb0175f"
+
+[update]
+[update.modrinth]
+mod-id = "BYmvNgRP"
+version = "JCEmM7PN"

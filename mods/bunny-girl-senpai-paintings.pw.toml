@@ -1,0 +1,13 @@
+name = "Bunny Girl Senpai Paintings"
+filename = "bunny_girl_senpai_paintings-1.0.0-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fXSOZRR8/versions/y4d2gluL/bunny_girl_senpai_paintings-1.0.0-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "ffcd71b22af8fba5c53ee97904a6b45c69ed0f84b31a48236bed4b02cd78553a25898cd14f6bef1db8983329ba5cf2f7f1bfabd98b8ad5ffdf33980560e5c932"
+
+[update]
+[update.modrinth]
+mod-id = "fXSOZRR8"
+version = "y4d2gluL"

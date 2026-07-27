@@ -1,0 +1,13 @@
+name = "Trim Resonance"
+filename = "TrimResonance-1.21.11-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3Pw16A0l/versions/njUfLVBH/TrimResonance-1.21.11-1.2.jar"
+hash-format = "sha512"
+hash = "ae3e34d3fcd6baa51fb2d72248883aa60ce8f33ed415652725bf0dad6179e3a08a95de64b11a94d9bfeea02b4490afe1b4b5ce9f4c0d68b7205395cd528b55ad"
+
+[update]
+[update.modrinth]
+mod-id = "3Pw16A0l"
+version = "njUfLVBH"

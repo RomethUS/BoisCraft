@@ -1,0 +1,13 @@
+name = "Eating Animation Fork"
+filename = "eating-animation-fork-1.21.11+2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6Z8trFQe/versions/Y867Phsc/eating-animation-fork-1.21.11%2B2.0.0.jar"
+hash-format = "sha512"
+hash = "35c6baad8173ad022367358f785591c1ef08940c172a89479f35a6645970f379becdd900b53468a283b55c870447e6e18ab0e54f75922cdfb8ec68c4b665353f"
+
+[update]
+[update.modrinth]
+mod-id = "6Z8trFQe"
+version = "Y867Phsc"

@@ -1,0 +1,13 @@
+name = "Dungeons Dimensions: Nether"
+filename = "mcd_d_nether-fabric-1.21.11-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sf8l9B73/versions/L1eo9abu/mcd_d_nether-fabric-1.21.11-1.3.3.jar"
+hash-format = "sha512"
+hash = "a0d815e11476933638d870b0b8faf0c879126a48f1fd686bf026ad529cbebaf3f7874bf941d38ed4643b219b1931db7028c118bc392f330baa285681b28c86b1"
+
+[update]
+[update.modrinth]
+mod-id = "sf8l9B73"
+version = "L1eo9abu"

@@ -1,0 +1,13 @@
+name = "Litematica Material Filter"
+filename = "litematica-material-filter-1.0.1+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDP0TPBa/versions/6Hb9aHds/litematica-material-filter-1.0.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "f5541ed0b420dec09cb127e00f050197f07a4e1e8f32e0bf9bd1d86c6e33b61a5498052de0256afc65d21d4aec39ff695f7bf383abb5b51e0630a5a4c522185c"
+
+[update]
+[update.modrinth]
+mod-id = "VDP0TPBa"
+version = "6Hb9aHds"

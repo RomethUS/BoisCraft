@@ -1,0 +1,13 @@
+name = "Frost Rider"
+filename = "frost-rider-datapack-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3tE8NrLt/versions/XbLoCfY8/frost-rider-datapack-1.1.jar"
+hash-format = "sha512"
+hash = "9a9b3be5a303c227458b5e9d04bf2b9db292869ab457ad9134403ec317ae5c7c5fba041339eeab7a3f49c6322c628da813afdfa72956225af7abb641390607f7"
+
+[update]
+[update.modrinth]
+mod-id = "3tE8NrLt"
+version = "XbLoCfY8"

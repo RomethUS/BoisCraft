@@ -1,0 +1,16 @@
+name = "BoisCraft"
+author = "Womes"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f0d903d1c3d7e03b9f62ea559fe776a784ceb6afb36fe9d2ba7c2560daa0d26"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"
+
+[options]
+datapack-folder = "datapacks"

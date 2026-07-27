@@ -1,0 +1,13 @@
+name = "AlcoCraft+"
+filename = "alcocraftplus-1.21.11-2.1.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6t2MdNbo/versions/oQHAUYwA/alcocraftplus-1.21.11-2.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "812813585a32e2e8466f26b9ce0b59141d439d8bd3ae2e3e97d129ba335abe3e913fed4377b3329367575ffe33f01503d63bfd0487c422e3588cfb2db312a23c"
+
+[update]
+[update.modrinth]
+mod-id = "6t2MdNbo"
+version = "oQHAUYwA"

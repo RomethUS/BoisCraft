@@ -1,0 +1,13 @@
+name = "KS Better Torchflower"
+filename = "better-torchflower-better-torchflower-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zFIJCRQs/versions/Anns92kR/better-torchflower-better-torchflower-1.21.11.jar"
+hash-format = "sha512"
+hash = "1e7c1734d45697a00dff9f4aba968073de9e794b5e44ac7c7bf392a5a3d7912674eb100b255a019fafc0fb394b7122859d33c5a7db67436f43bf7b7b948d95e1"
+
+[update]
+[update.modrinth]
+mod-id = "zFIJCRQs"
+version = "Anns92kR"

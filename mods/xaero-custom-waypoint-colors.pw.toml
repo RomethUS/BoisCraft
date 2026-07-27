@@ -1,0 +1,13 @@
+name = "Xaero Custom Waypoint Colors"
+filename = "xaero-custom-waypoint-colors-1.0.6-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kFFHl7G7/versions/HjvtoUUi/xaero-custom-waypoint-colors-1.0.6-1.21.11.jar"
+hash-format = "sha512"
+hash = "2b851a9d015ebd3e94be9e7db0701129bb318dd842584288825bb4c496f9ba69a8fc3178015ebf8d85b16a7c3077d70d9c1ae9ea59560994a17f8a490310c60c"
+
+[update]
+[update.modrinth]
+mod-id = "kFFHl7G7"
+version = "HjvtoUUi"

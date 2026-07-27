@@ -1,0 +1,13 @@
+name = "Eternal Nether"
+filename = "EternalNether-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6R4jmL8/versions/aVMhkKYb/EternalNether-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "001b910cd46c12a0571bcb6d01afe439df00f8804a2d700a6b101ec80d49086c4a1f6a847eedbaa5a716711a0f41c191fe3b8d94882d5fef7bd321608095a8bc"
+
+[update]
+[update.modrinth]
+mod-id = "s6R4jmL8"
+version = "aVMhkKYb"

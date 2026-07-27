@@ -1,0 +1,13 @@
+name = "So Let's Set The Ore On Fire"
+filename = "soletssettheoreonfire-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lxFUQqIU/versions/UopGI22g/soletssettheoreonfire-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "7fb52e0db003e0da7c99025ed424a9f29fdb749ccec231bd162f5ee640a8fcfdfd302d915fdd2a01e82ce0c25cda10e04dffc14cd6a8dcebc9dc07264dd74f24"
+
+[update]
+[update.modrinth]
+mod-id = "lxFUQqIU"
+version = "UopGI22g"

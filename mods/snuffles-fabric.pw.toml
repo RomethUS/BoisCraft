@@ -1,0 +1,13 @@
+name = "Snuffles (Fabric)"
+filename = "snuffles-1.7.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nUsNRn4i/versions/inQ6TXrT/snuffles-1.7.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "e6b9f6441ff8722114d13d4d449e854a6eff26273cf507392fcc5f39d76d66d9f651934c01149dc50323f4ee5881a6e73d69554d525187d31eee2655ee505578"
+
+[update]
+[update.modrinth]
+mod-id = "nUsNRn4i"
+version = "inQ6TXrT"

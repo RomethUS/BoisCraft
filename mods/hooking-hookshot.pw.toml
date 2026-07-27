@@ -1,0 +1,13 @@
+name = "Hooking Hookshot"
+filename = "hooking-hookshot-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uPHVwMzE/versions/LWn8kwcA/hooking-hookshot-1.0.jar"
+hash-format = "sha512"
+hash = "34e5cccd9870430af13d8dc26eb40d443f5212617bb1ca0d6880185356acb29cd142ce04935575b53f44154096d57128fba3c2d901b96045c72ce118799070ed"
+
+[update]
+[update.modrinth]
+mod-id = "uPHVwMzE"
+version = "LWn8kwcA"

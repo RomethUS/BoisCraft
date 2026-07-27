@@ -1,0 +1,13 @@
+name = "Glow Trims"
+filename = "glow_trims-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3MBhOT2G/versions/3UT9Lhc7/glow_trims-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "ea2fd6db7d2fc9f1e7eea82962290733f9d6ba503c8a2ea5df2cf5aea7d4fa16f2451d9804836d6d6d73419ec77fec124f49463cde1b34a21b85ab3f5ce07941"
+
+[update]
+[update.modrinth]
+mod-id = "3MBhOT2G"
+version = "3UT9Lhc7"

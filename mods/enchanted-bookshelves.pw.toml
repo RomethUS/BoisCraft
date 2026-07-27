@@ -1,0 +1,13 @@
+name = "Enchanted Bookshelves"
+filename = "enchanted-bookshelves-1.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CIfCvYLI/versions/EYfXsAq7/enchanted-bookshelves-1.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "d6e356877f289429a211ceefb20c094c2825f297efebe8e6bee1ee4b0afb0b1913a9fbf5ef7b9bc8cd14b41247597b054b3daa9eae5027fdc324d3f1760de27e"
+
+[update]
+[update.modrinth]
+mod-id = "CIfCvYLI"
+version = "EYfXsAq7"

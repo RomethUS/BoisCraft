@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Cinderscapes"
+filename = "farmers-cutting-cinderscapes-1.21.11-1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dZSS54kS/versions/oRoL3X6b/farmers-cutting-cinderscapes-1.21.11-1.0-fabric.jar"
+hash-format = "sha512"
+hash = "73370ed0e7e2fa43dc63260a8259b7bd103c986cd2cddbabab6373aac9b4d8276e8067f67326ca90fb3ee4c3132675bb8f52244faf1f9e374364d0c90e97fc89"
+
+[update]
+[update.modrinth]
+mod-id = "dZSS54kS"
+version = "oRoL3X6b"

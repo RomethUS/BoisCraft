@@ -1,0 +1,13 @@
+name = "NoPackCompatCheck"
+filename = "NoPackCompatCheck-0.1.0-fabric-mc1.18.2+.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1agMh8Z8/versions/eYEzG9BX/NoPackCompatCheck-0.1.0-fabric-mc1.18.2%2B.jar"
+hash-format = "sha512"
+hash = "64ce012e21c19f0cb317231d41f9a805c0e8dafe554cac421f447054f5a5571286bac879b71106db1ee0d7128ef4507a77a42ee33c7d31877c359e7dad03be25"
+
+[update]
+[update.modrinth]
+mod-id = "1agMh8Z8"
+version = "eYEzG9BX"

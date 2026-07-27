@@ -1,0 +1,13 @@
+name = "Aurora's Lanterns"
+filename = "auroraslanterns-2.0.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xABbFTq3/versions/rxG8O63K/auroraslanterns-2.0.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "c8b2538d3a89171c85c11d989c01ab802aeab63c23071133a86a7d99268b2bd8ccccf74c5e9730e4884d7e7fe9e31b2dfcaf6cc8218508fa7c8d18fd88ed2f10"
+
+[update]
+[update.modrinth]
+mod-id = "xABbFTq3"
+version = "rxG8O63K"

@@ -1,0 +1,13 @@
+name = "Whisper of Ether"
+filename = "WhispersOfEther-1.21.11-V1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFAQg5II/versions/ZQqxInin/WhispersOfEther-1.21.11-V1.0.0.jar"
+hash-format = "sha512"
+hash = "7c936c46467c404ab4b1dad07d5912ca71b016cacec61b868a33ff3c066ea9eb8c072c596fa5a486ec4a969382cbddf56bd3d9817cb8a1d8bae92067eae74704"
+
+[update]
+[update.modrinth]
+mod-id = "aFAQg5II"
+version = "ZQqxInin"

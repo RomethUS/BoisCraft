@@ -1,0 +1,13 @@
+name = "Prism"
+filename = "Prism-1.21.11-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/QaLPTxR5/Prism-1.21.11-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "25f4f5d061a398e953561db2e1106ad5a92ff5081ddcc0034a0133287d9b1f90cda5eaf708d7b54f6b1e8f8edec9dd6474825fcff5b543a7b5c99ae1a4a2ecc3"
+
+[update]
+[update.modrinth]
+mod-id = "1OE8wbN0"
+version = "QaLPTxR5"

@@ -1,0 +1,13 @@
+name = "Farm 3x3 Farmer's Delight Compatibility"
+filename = "farm-3x3-farmers-delight-compatibility-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gDrMYkTU/versions/wJQKirCi/farm-3x3-farmers-delight-compatibility-2.3.1.jar"
+hash-format = "sha512"
+hash = "518b07ea22af9b7dd405bfbaf3260807135907751ecdcdf4e95810fb6e633439bfd2afc2915f3c1547c1de63859b2afa4366ac9c30462af684032293ab41f7d5"
+
+[update]
+[update.modrinth]
+mod-id = "gDrMYkTU"
+version = "wJQKirCi"

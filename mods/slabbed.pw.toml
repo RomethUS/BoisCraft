@@ -1,0 +1,13 @@
+name = "Slabbed"
+filename = "slabbed-0.5.0-beta.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/5nraCxl9/versions/ZC0xIDuA/slabbed-0.5.0-beta.8.jar"
+hash-format = "sha512"
+hash = "5abb91fcc993202ef212e4181809a92ec622d9434b42c2e2396b7c9b16dc58d1772ca7cf5a661ef506f43e19c02ce23adaa5a8ad43f6c4db6b79a9f4a9c268c4"
+
+[update]
+[update.modrinth]
+mod-id = "5nraCxl9"
+version = "ZC0xIDuA"

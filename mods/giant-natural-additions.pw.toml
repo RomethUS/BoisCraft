@@ -1,0 +1,13 @@
+name = "Giant Natural Additions"
+filename = "giant_natural_additions-2.0.0-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hnrzQdHf/versions/dwCc2QsN/giant_natural_additions-2.0.0-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "f01d2223041d69fee5ddabcb6cffe1ca1bd26f98a92ab7575e32a2300509cff0664a98c804932bdb3a792ae2699e2c9ada03c3ee22ecf82bf8ff539ce1014b29"
+
+[update]
+[update.modrinth]
+mod-id = "hnrzQdHf"
+version = "dwCc2QsN"

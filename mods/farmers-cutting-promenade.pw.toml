@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: Promenade"
+filename = "farmers-cutting-promenade-26.1.2-1.1a-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eAGs83gV/versions/Y5DD93GU/farmers-cutting-promenade-26.1.2-1.1a-fabric.jar"
+hash-format = "sha512"
+hash = "188f91304553ba74013f4d92cb697e0ba899c964a76bf61f7c6438f3c8169367141357dbe8ff98e8b6c7cd6103d39e126bb606d5e5410248eb172f4e7b3c1297"
+
+[update]
+[update.modrinth]
+mod-id = "eAGs83gV"
+version = "Y5DD93GU"

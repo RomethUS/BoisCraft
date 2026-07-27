@@ -1,0 +1,13 @@
+name = "Farm 3x3"
+filename = "farm-3x3-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNHrBKWb/versions/FUvasyco/farm-3x3-2.3.1.jar"
+hash-format = "sha512"
+hash = "f7d0780881560a9d6323a7c9c5ecb8f39179af06cc2cb7c0aa591048ac4d73f04b7ba9d7ddb3572ef45f379b1764d6e899540f399898afeb5586df6778d07388"
+
+[update]
+[update.modrinth]
+mod-id = "cNHrBKWb"
+version = "FUvasyco"

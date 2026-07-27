@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Ocean"
+filename = "awesomedungeonocean-fabric-1.21.11-3.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hn56Bq5n/versions/9fMPq3X7/awesomedungeonocean-fabric-1.21.11-3.3.0.jar"
+hash-format = "sha512"
+hash = "b51032a04e7d3f8e82748912d27688e6e9ad8e92fd3bea187c5496b1837cb8b7e5901895de3eeef8ba3af70eb21cfb0f0038629de7de7de4d78c84c40bc12d86"
+
+[update]
+[update.modrinth]
+mod-id = "hn56Bq5n"
+version = "9fMPq3X7"

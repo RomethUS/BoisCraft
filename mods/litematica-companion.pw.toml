@@ -1,0 +1,13 @@
+name = "Litematica Companion"
+filename = "litematica-companion-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QbvfedEs/versions/I8yNRVr8/litematica-companion-1.0.0.jar"
+hash-format = "sha512"
+hash = "d3adf24a6c8899ba0cb756214cf6786d3716b45854ac651cf8f4bc08d1a095b144aadf88f6f6e2f2feb812faf08e5830305d6b8e16953054a317f949a676d560"
+
+[update]
+[update.modrinth]
+mod-id = "QbvfedEs"
+version = "I8yNRVr8"

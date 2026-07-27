@@ -1,0 +1,13 @@
+name = "26.1 Backport"
+filename = "backport_261-1.1.1+mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aEK5pHhC/versions/raDGVF7k/backport_261-1.1.1%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "fdba6ae41e01cb5475f0783f212fd913f8358813006918534968362f115663988d183069f48208d230ab761a447c05a2244dc71c7556f1f1ab17992264cc1f76"
+
+[update]
+[update.modrinth]
+mod-id = "aEK5pHhC"
+version = "raDGVF7k"

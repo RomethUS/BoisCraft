@@ -1,0 +1,13 @@
+name = "Animal Garden - Red Panda"
+filename = "animalgarden_redpanda-1.1.2-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mT3pD13/versions/hq55e5FE/animalgarden_redpanda-1.1.2-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "5bff2b13bbea856388b1c268ea7172767140abb59890707cac6773c614091a0cc152bc0f76513f410f97f3c55884faa48194248011cc6d0d76f9f952149a9c40"
+
+[update]
+[update.modrinth]
+mod-id = "7mT3pD13"
+version = "hq55e5FE"

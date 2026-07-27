@@ -1,0 +1,13 @@
+name = "Ping to Map: JourneyMap"
+filename = "ping2map-1.2.0-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NufpsG8i/versions/g7Z8BJeV/ping2map-1.2.0-fabric-1.21.11.jar"
+hash-format = "sha512"
+hash = "9d3356835c42e456b10b5c500fc0f6a1e64734029f187ac35a5d1ed942d861eb7b7e532279581cb02427a34509426d7d445d9a744ff2dd867da6b61a2c73ef41"
+
+[update]
+[update.modrinth]
+mod-id = "NufpsG8i"
+version = "g7Z8BJeV"

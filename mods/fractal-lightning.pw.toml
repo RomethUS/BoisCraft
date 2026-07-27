@@ -1,0 +1,13 @@
+name = "Fractal Lightning"
+filename = "Fractal Lightning-1.0.1-MC1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VWGDEfBo/versions/Ws35PjbH/Fractal%20Lightning-1.0.1-MC1.21.11.jar"
+hash-format = "sha512"
+hash = "a76de1d887dea9a9c37a7b91aa57799226edabc244cc00018407a8e886fedc93d556db789c217f12a942e2c00136fea1c37bba524480011b3fca02d59406b746"
+
+[update]
+[update.modrinth]
+mod-id = "VWGDEfBo"
+version = "Ws35PjbH"

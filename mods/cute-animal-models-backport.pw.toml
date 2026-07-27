@@ -1,0 +1,13 @@
+name = "Cute Animal Models Backport"
+filename = "cute-animals-backported-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOotQhKm/versions/YVTBmKLS/cute-animals-backported-1.0.0.jar"
+hash-format = "sha512"
+hash = "23f4df0fbf90b82f7345c4faa47c4186abfbd052db5e815c8a1d2dadcb2913e6ad864106b2a40f959a924aa08749257ec68d6b9762afad3615dbbaa7cb16d8ba"
+
+[update]
+[update.modrinth]
+mod-id = "lOotQhKm"
+version = "YVTBmKLS"

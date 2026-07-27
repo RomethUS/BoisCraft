@@ -1,0 +1,13 @@
+name = "Sulfur Backport"
+filename = "sulphur-backport-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WIsuBEap/versions/ScHD5sKM/sulphur-backport-1.1.jar"
+hash-format = "sha512"
+hash = "4482bce59cf8d6bdeeefb86b445e0c7ea500402292fa1663c05c85b064e384be4757c9ace6e0c9950b3099bab3c58ab89c3b81f86b37a7397258289a124798a9"
+
+[update]
+[update.modrinth]
+mod-id = "WIsuBEap"
+version = "ScHD5sKM"

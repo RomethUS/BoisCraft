@@ -1,0 +1,13 @@
+name = "NiftyCrats X Farmer's Delight"
+filename = "niftycrats-x-farmers-delight-(seed-drill)-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HGKPF6Gc/versions/XZGcY1o6/niftycrats-x-farmers-delight-%28seed-drill%29-1.21.11.jar"
+hash-format = "sha512"
+hash = "5c14d00932d0f6246c74ac40e905f8b30c700f224d311baaa006834c94c6794c94b58da28701cea9ed5aa9378914d0223a56a2fb57a75fc601b7d97d086bda8b"
+
+[update]
+[update.modrinth]
+mod-id = "HGKPF6Gc"
+version = "XZGcY1o6"

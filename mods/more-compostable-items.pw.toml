@@ -1,0 +1,13 @@
+name = "More Compostable Items"
+filename = "more-compostable-items-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fli89JFe/versions/KkQmxszM/more-compostable-items-1.4.1.jar"
+hash-format = "sha512"
+hash = "ba4245ddc6984a6edc48c40d9f2b0ad6543236b461a4ed864981c1dd92d6bf9d92f8792901a9b5794ff05d95d519ea7212b37aa7e33859c7207562dd1e7aae23"
+
+[update]
+[update.modrinth]
+mod-id = "fli89JFe"
+version = "KkQmxszM"

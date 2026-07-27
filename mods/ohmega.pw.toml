@@ -1,0 +1,13 @@
+name = "Ohmega"
+filename = "ohmega-1.5.20-fabric+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/scvT0o5w/versions/g5KGh1ho/ohmega-1.5.20-fabric%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "0f005d53a021f91b41350b23fad67f44f97530fae016c1870f136fed09bf71a7e46a77f95a0b03e944e515a81d83db93ff6a36a3700d117edafe97a2404540e8"
+
+[update]
+[update.modrinth]
+mod-id = "scvT0o5w"
+version = "g5KGh1ho"

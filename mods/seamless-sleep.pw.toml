@@ -1,0 +1,13 @@
+name = "Seamless Sleep"
+filename = "seamlesssleep-fabric-1.21.11-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IyHq05yB/versions/bcFqtn4m/seamlesssleep-fabric-1.21.11-2.6.2.jar"
+hash-format = "sha512"
+hash = "a963b9e80198398b091d82893e276b3541e160e1b4e1dad5559226ebf27e79ffc93d935785ee44ab31e23e7f65583577ef61121f0f0319049dad30599af2c9d2"
+
+[update]
+[update.modrinth]
+mod-id = "IyHq05yB"
+version = "bcFqtn4m"

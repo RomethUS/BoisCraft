@@ -1,0 +1,13 @@
+name = "BCLib: New Dawn"
+filename = "bclib-21.11.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7bdKEtKC/versions/Hi2oKpEC/bclib-21.11.1-fabric.jar"
+hash-format = "sha512"
+hash = "aa50e6276a6ad904c5f28bfa9054daaf00a266ecdd8505cfacf41c8fc50f603f44aa92018a0c3f8c9f81a5e0ea767c53e3434c922b086351ac3a8493e216209c"
+
+[update]
+[update.modrinth]
+mod-id = "7bdKEtKC"
+version = "Hi2oKpEC"
