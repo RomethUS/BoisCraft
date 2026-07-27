@@ -1,0 +1,13 @@
+name = "Dragonkind Evolved | End Battle Reborn"
+filename = "dragonkind-evolved-1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yo1bGdBx/versions/ylIAotjR/dragonkind-evolved-1.12.jar"
+hash-format = "sha512"
+hash = "5b5ec7fbdd395dc4c1a2a591bba55af7eb9c87cdda1615a94becdac26bfabd523b23b3a3c6c1f298efa82da4cdfb89d2031782f2b702665ee5dae41cbf3e49c5"
+
+[update]
+[update.modrinth]
+mod-id = "yo1bGdBx"
+version = "ylIAotjR"

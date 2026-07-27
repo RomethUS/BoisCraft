@@ -1,0 +1,13 @@
+name = "Enderscape's Delight"
+filename = "enderscapes-delight-0.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lxIYCOcB/versions/NIva5WdM/enderscapes-delight-0.9.2.jar"
+hash-format = "sha512"
+hash = "f1ce393de41c14267e764ca205082b9941c58e181afd81fc5739cc6b78f87553e7d2436e9389cd6157696115aacdbc67df90a5014642cdb46fd6a46c2fd8e66d"
+
+[update]
+[update.modrinth]
+mod-id = "lxIYCOcB"
+version = "NIva5WdM"

@@ -410,6 +410,11 @@ hash = "f2df7f4675bf3d2a5c3113521c836c9df3c8933ce63e0b988c25c5d91b0b379d"
 metafile = true
 
 [[files]]
+file = "mods/dragonkind-evolved.pw.toml"
+hash = "169608d697067c947375fdf118b52441505ccc82d4715f1fcc4b3b4c7642dab0"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "48e97f7637281b8f2b59f63ef76f48259b6052c79d396ecd3bf4b42a8a5a08b8"
 metafile = true
@@ -477,6 +482,16 @@ metafile = true
 [[files]]
 file = "mods/enchanter-fix.pw.toml"
 hash = "302899d82ac24b9a25aa45d5791ef8dacb57ca97f7dafbe22bfbccca43549149"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "f58d78ea67afa3f1a7e24608e22b59edbb0011e22d806430ae9fe743f9b0347a"
+metafile = true
+
+[[files]]
+file = "mods/enderscapes-delight.pw.toml"
+hash = "9f3e37db55de16f0d36a0fe0b24a3fb433e9b50691ddfdd5625379cdd312ec47"
 metafile = true
 
 [[files]]
