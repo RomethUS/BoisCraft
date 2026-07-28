@@ -1,0 +1,13 @@
+name = "Stellarity Resource Pack"
+filename = "Stellarity-5.5.4-RP.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NfszI0rL/versions/oxR5vxA0/Stellarity-5.5.4-RP.zip"
+hash-format = "sha512"
+hash = "d40601fbf86429b2b5285a58cdeea586580f77c215cd103ace226e92ceb120e49ec2d551858275502f241a1bbdaa293a80718663ec8f28bad962dea4e2e7d0d8"
+
+[update]
+[update.modrinth]
+mod-id = "NfszI0rL"
+version = "oxR5vxA0"
