@@ -500,11 +500,6 @@ hash = "302899d82ac24b9a25aa45d5791ef8dacb57ca97f7dafbe22bfbccca43549149"
 metafile = true
 
 [[files]]
-file = "mods/enderscapes-delight.pw.toml"
-hash = "9f3e37db55de16f0d36a0fe0b24a3fb433e9b50691ddfdd5625379cdd312ec47"
-metafile = true
-
-[[files]]
 file = "mods/endfire.pw.toml"
 hash = "a7a7d1d9248ed293dc303006abdef8bb4b42abf66367e6507ceb267ee7c46eb4"
 metafile = true
