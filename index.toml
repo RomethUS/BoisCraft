@@ -1015,11 +1015,6 @@ hash = "53339ae7ef3cb1510a721153a143954bcc380d4ec195b2fd9349121c9661579b"
 metafile = true
 
 [[files]]
-file = "mods/perception.pw.toml"
-hash = "c49b27f684c75a0b3fc9c24b7f4d32453e6989c23f649c58e121845684856dda"
-metafile = true
-
-[[files]]
 file = "mods/petprotect.pw.toml"
 hash = "a8644edf6d1af302b6830389d7ade1ba73e1695c35eb5dd13115ea0241d32c58"
 metafile = true
@@ -1132,11 +1127,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
-metafile = true
-
-[[files]]
-file = "mods/shatterbyte-lib.pw.toml"
-hash = "95f36c8c950d3420e11d37d22e6ea23d8b0bb5b9de5babe8eaa9c1eee4fb2ceb"
 metafile = true
 
 [[files]]
