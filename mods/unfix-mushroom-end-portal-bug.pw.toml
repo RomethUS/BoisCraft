@@ -1,0 +1,13 @@
+name = "Mushroomable end Portal"
+filename = "unfix-mushroom-end-portal-bug-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ukrxotXq/versions/3WxVJZGj/unfix-mushroom-end-portal-bug-1.0.0.jar"
+hash-format = "sha512"
+hash = "5aa4e8226637002c053c6d8a4ca2e1b653ad7c966d3596a6957c43bada93f77f02d8499acf08235e55f3d98ff7934743dbf216af8b8562bf21f8c4a7cacb2066"
+
+[update]
+[update.modrinth]
+mod-id = "ukrxotXq"
+version = "3WxVJZGj"

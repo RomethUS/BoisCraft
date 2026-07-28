@@ -1,0 +1,13 @@
+name = "Sorted"
+filename = "sorted-fabric-0.1.8-mc1.21.10-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vtsGVHan/versions/KuF5LlKk/sorted-fabric-0.1.8-mc1.21.10-1.21.11.jar"
+hash-format = "sha512"
+hash = "7d581304a2d96adbc6e3928f06122f36e280ff0d5c0e1fe4cea144b799bae74bf4cce65fc5cdf7351dd88e8d5da49bc237ad2c44a6ee6003c52385532664d268"
+
+[update]
+[update.modrinth]
+mod-id = "vtsGVHan"
+version = "KuF5LlKk"

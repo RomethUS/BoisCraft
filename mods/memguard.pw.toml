@@ -1,0 +1,13 @@
+name = "MemGuard"
+filename = "memguard-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4pERD9rc/versions/aTL2KGQS/memguard-1.0.1.jar"
+hash-format = "sha512"
+hash = "62b44e08371088040093b12b7b17eb8b107e9357aacc6c0945e72d13480a2c1cbcd724613004a7d38ad6cf6b61ac86b94c2979981f2f886384e4d49c8ffac8b3"
+
+[update]
+[update.modrinth]
+mod-id = "4pERD9rc"
+version = "aTL2KGQS"

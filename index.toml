@@ -5,8 +5,18 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "datapacks/dnt-stellarity-compat.pw.toml"
+hash = "fac12cddea73b1d3fb81a80853ed83833e37d5cfb875383618bb6c4fd8eab7af"
+metafile = true
+
+[[files]]
 file = "datapacks/stellarity-x-nullscape.pw.toml"
 hash = "03b55215f113632c4b668988edefc3792ef5cf8a3eafd9f26338ff8cb3fafc79"
+metafile = true
+
+[[files]]
+file = "datapacks/stellarityxyung.pw.toml"
+hash = "e231314203ed4b4cfdbcc417ce34d34243c899e43959b837c070ef92b430e1c5"
 metafile = true
 
 [[files]]
@@ -167,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "6049c6f1f148c9bde5cfd2f79931b63d27f30ce305ebbbb58891a5211b31ad47"
+metafile = true
+
+[[files]]
+file = "mods/better-copper-golem.pw.toml"
+hash = "33c1650cc03fbe05192ebe13d2b560462efa6ed3b1b3a10eee904f51b886d270"
 metafile = true
 
 [[files]]
@@ -395,6 +410,11 @@ hash = "a3852b315609eeb515a3c01e8cb4addddf1253060b79f53ec8075c218da93b98"
 metafile = true
 
 [[files]]
+file = "mods/dimension-leak-fix.pw.toml"
+hash = "7e1f1aa733515fec9ca39043c4129f7b5c7c2dd545ffb911d9d3748b09bd84f6"
+metafile = true
+
+[[files]]
 file = "mods/display-delight-fabric.pw.toml"
 hash = "636904b6508b012550ddb63a124be8b100c77a11536c8697fa39ef8cab90dfc1"
 metafile = true
@@ -422,11 +442,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "8be1928de42bd2fc1a20a6735d36358145d8b1304649679854d9cb2021010e8d"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-dimensions-nether.pw.toml"
-hash = "cc69ee740184f678382a95501a3f84a8f011472081a9eb14aa676e455796f68b"
 metafile = true
 
 [[files]]
@@ -675,11 +690,6 @@ hash = "dea7dadca619d0d1d26956c59e5ce70deadb0b6688ddd19912b4cf85a5e0e0a9"
 metafile = true
 
 [[files]]
-file = "mods/giant-natural-additions.pw.toml"
-hash = "b78c86282d24d4a2d38939c34b89db82ec3c535f5ef46ce2f103207413216102"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "358fdb21e9983291a3956b8a64acfe0b220038b2110d462e2b0a0a149a2616b2"
 metafile = true
@@ -880,16 +890,6 @@ hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
 metafile = true
 
 [[files]]
-file = "mods/medieval-buildings-end-edition.pw.toml"
-hash = "1a01510c8c3d4fcfcff5d0e1dbbe154c479f697c9307112aac317338e75ea546"
-metafile = true
-
-[[files]]
-file = "mods/medieval-buildings-nether-edition.pw.toml"
-hash = "2e2061cdde9f76534660f08146b4243e06153d1367743b312d2f8247fd93f55d"
-metafile = true
-
-[[files]]
 file = "mods/medieval-buildings.pw.toml"
 hash = "8b8a839bc447eb7d0a01ecb480af92693fe9396929ec29f1beda5e0cd5011c4d"
 metafile = true
@@ -897,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "876ca1992ac09a3ca33b30c6638181edea0472426892289d2a321bdebacc1cbd"
+metafile = true
+
+[[files]]
+file = "mods/memguard.pw.toml"
+hash = "b2361b78e6c39fba437bba33f0d4c0db3ff49dad10b2a9f89ae152383b6386bd"
 metafile = true
 
 [[files]]
@@ -1110,6 +1115,11 @@ hash = "e962ad693da6e8c7dcd33046859cd7ee1ddd66c48eaa43e0948d3f2843d3dbd7"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "14749602c5e4e4fb3ea0eaeedc380a959e9378fb9ebcb5c2dd284f6b0cf87f87"
 metafile = true
@@ -1190,6 +1200,11 @@ hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
 metafile = true
 
 [[files]]
+file = "mods/sorted.pw.toml"
+hash = "6f5e6fc117875d5ab5579206245c68ef4b78145fcb3a42792009a04e61f9b842"
+metafile = true
+
+[[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "a42773c20d79f48763d93e3beaa157925bc9d79c2308d0c7d5ffe691e46a0716"
 metafile = true
@@ -1242,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/structory.pw.toml"
 hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "e053f491047089bdce5b4479587f52ad190dc768f1ddf29dcc7541953b6a5a24"
 metafile = true
 
 [[files]]
@@ -1305,11 +1325,6 @@ hash = "8395011d4f1cac1a378726e7d5e3a766857dd785d304c466e0379d36ca42683f"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "fcbfa39f9ced74807efe4ce8d200b6dcfc5f4258fcb69d1c67447b55c47d084a"
-metafile = true
-
-[[files]]
 file = "mods/tsa-decorations.pw.toml"
 hash = "24ae62561acb4c124b96d32f492f57a8537201df92edc961a45fd9b6dd264157"
 metafile = true
@@ -1322,6 +1337,11 @@ metafile = true
 [[files]]
 file = "mods/tweaks-delight.pw.toml"
 hash = "0827a20ca80c2563fbf9aa92decae3c73b09ec724c469f11b75e2b1efcf18be8"
+metafile = true
+
+[[files]]
+file = "mods/unfix-mushroom-end-portal-bug.pw.toml"
+hash = "75ef6c2a9841b2210eeaf9f8b2954bf6c1bde435609743e7f9121d366a8f6a29"
 metafile = true
 
 [[files]]
@@ -1342,11 +1362,6 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
-metafile = true
-
-[[files]]
-file = "mods/wabi-sabi-structures.pw.toml"
-hash = "3be3d5b0c331ebfa424fde5850198504443f78c3dc29cb2c522d76d283f01946"
 metafile = true
 
 [[files]]
@@ -1395,8 +1410,8 @@ hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
-file = "mods/yggdrasil-structure.pw.toml"
-hash = "61a16eda4381636abe2538d41b15f9bb71555d8be0111f6e9862b313378c67f5"
+file = "mods/yggdrasil-alternative.pw.toml"
+hash = "8f3c7b3233a2e269650c38d227a3d75c73a8dba895750c8bb88b464aac9ee05f"
 metafile = true
 
 [[files]]

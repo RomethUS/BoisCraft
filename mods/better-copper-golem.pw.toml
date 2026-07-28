@@ -1,0 +1,13 @@
+name = "Better Copper Golem"
+filename = "bettercoppergolem-FABRIC-2.2.0-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FD3rofvj/versions/BL9NsA4L/bettercoppergolem-FABRIC-2.2.0-1.21.11.jar"
+hash-format = "sha512"
+hash = "f60bcb94069449731b9097c68faf86fb4282d2005abe21ebca169960cd182a064870d5e84ddd3bd6fc495fe70eb7ca7a62b96edfd3ee93caede6ffab68084f5c"
+
+[update]
+[update.modrinth]
+mod-id = "FD3rofvj"
+version = "BL9NsA4L"

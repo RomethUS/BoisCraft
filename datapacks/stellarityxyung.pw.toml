@@ -1,0 +1,13 @@
+name = "Disable Stellarity end island"
+filename = "NoStellarityEndIsland.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/N3A3VcjR/versions/QnyJhffi/NoStellarityEndIsland.zip"
+hash-format = "sha512"
+hash = "c49f6256ed4095c1991c98a666b49c97b8209b9e76dc2dbc8f83501ec128d54ee173115d459bfa32c722e787fd4c839dcae1f1c3286c841a795ae7adff6ffe3f"
+
+[update]
+[update.modrinth]
+mod-id = "N3A3VcjR"
+version = "QnyJhffi"

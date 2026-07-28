@@ -1,0 +1,13 @@
+name = "Yggdrasil Alternative"
+filename = "yggdrasil-alternative-5.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nJLo0AtD/versions/vluFT20S/yggdrasil-alternative-5.4.0.jar"
+hash-format = "sha512"
+hash = "615d57f15b8465fd6702d90e75a683b006e31f7a6db4a351e188c691125377c9371e38e6e20a60f51eb7b9b1f342e900d71ce7c799c9a66d7a4ab8ae8098f0b8"
+
+[update]
+[update.modrinth]
+mod-id = "nJLo0AtD"
+version = "vluFT20S"
