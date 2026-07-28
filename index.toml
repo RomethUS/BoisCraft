@@ -15,11 +15,6 @@ hash = "03b55215f113632c4b668988edefc3792ef5cf8a3eafd9f26338ff8cb3fafc79"
 metafile = true
 
 [[files]]
-file = "datapacks/stellarityxyung.pw.toml"
-hash = "e231314203ed4b4cfdbcc417ce34d34243c899e43959b837c070ef92b430e1c5"
-metafile = true
-
-[[files]]
 file = "mods/26.1-backport.pw.toml"
 hash = "ab87352fcf801ec8eddf79c59e99cb6e8c6168eb604a80ce4bcb3a3ae1ffee3a"
 metafile = true
