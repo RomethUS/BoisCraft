@@ -1,0 +1,13 @@
+name = "Mythic Mounts"
+filename = "mythic_mounts-1.0V.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vDBg3dpI/versions/a8WVUitL/mythic_mounts-1.0V.jar"
+hash-format = "sha512"
+hash = "5afdb21a9ac6b89f603d1cccc238687c3da2596feaba6e91b2e3bbeb4c8297838e53047c5ce612b5a1d89eca924f2e990cd4f77f40cf4422cf2575eec898bc8e"
+
+[update]
+[update.modrinth]
+mod-id = "vDBg3dpI"
+version = "a8WVUitL"
