@@ -1512,3 +1512,7 @@ metafile = true
 file = "resourcepacks/stellarity-rp.pw.toml"
 hash = "23c08b75f202558eed24bea2bba5f97f22c94eac9bade05b06572fb179d20748"
 metafile = true
+
+[[files]]
+file = "shaderpacks/IterationRP-Shaders-All-Versions-26.1.zip"
+hash = "5ef6dfe9901bae744c995e1d6ce2bd34ca02d73f61dce91f6f609f6dc3bca30c"
