@@ -1220,11 +1220,6 @@ hash = "38544b9a9b21694bae111800b47e144b0eba022c0e1f5093c5dfe71a3db48e53"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "906b8c8b5b7d02106cf385275af5debe8605f9f8833702e84cc34bae69b6e649"
-metafile = true
-
-[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "e7c5df71dcc702709f71e7507a360c6211689a0b3fbe7a61d29decf49bc095e1"
 metafile = true
