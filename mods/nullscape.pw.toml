@@ -11,8 +11,3 @@ hash = "16e12725973e03284d1a9d71c750b9687b91d91789eae8df657aa0f90d3487a68687711e
 [update.modrinth]
 mod-id = "LPjGiSO4"
 version = "f87vU1jc"
-
-[option]
-optional = true
-default = true
-description = "Optional mod"

@@ -20,11 +20,6 @@ hash = "03b55215f113632c4b668988edefc3792ef5cf8a3eafd9f26338ff8cb3fafc79"
 metafile = true
 
 [[files]]
-file = "datapacks/stellarity.pw.toml"
-hash = "96341df0c568b2e23be741d0d6a8d50908c11bcda2ee8ea8079cb62d04e673d3"
-metafile = true
-
-[[files]]
 file = "mods/26.1-backport.pw.toml"
 hash = "ab87352fcf801ec8eddf79c59e99cb6e8c6168eb604a80ce4bcb3a3ae1ffee3a"
 metafile = true
@@ -991,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "a85fb3647fe5692df780a50da4b235c064907fbf5379b176578848adb608fa91"
+hash = "19400cb5b224bc049efd94632db090f3cab14de08b1069396f1ace9d7bf3b4ad"
 metafile = true
 
 [[files]]
@@ -1217,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity-better-combat-addon.pw.toml"
 hash = "9a4c691d040cc24afe2f6230e6ba0a86e61eaae8a2869afad54e197c4888efa4"
+metafile = true
+
+[[files]]
+file = "mods/stellarity-lite.pw.toml"
+hash = "38544b9a9b21694bae111800b47e144b0eba022c0e1f5093c5dfe71a3db48e53"
 metafile = true
 
 [[files]]
