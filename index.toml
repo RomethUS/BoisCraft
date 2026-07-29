@@ -385,11 +385,6 @@ hash = "8c9ac53bfb4612952b482aef13a712291c741d89f00cc5d4ab1207c03687e8bd"
 metafile = true
 
 [[files]]
-file = "mods/datapack-injector.pw.toml"
-hash = "669858bccb4357cf18fd7e6b479cf68589775cdef085731da0ee92d6414fa087"
-metafile = true
-
-[[files]]
 file = "mods/deeper_dark.pw.toml"
 hash = "4b0ea0a55dec13b48c2d93b9b89386ca7dce3db66fdbb1e7172e6b84932e3679"
 metafile = true
