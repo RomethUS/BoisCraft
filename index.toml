@@ -990,6 +990,11 @@ hash = "3793ef9ef9c29f99bb7a870461db8d4e74525ed6ffd5dad8b5a1f1918ccb8c54"
 metafile = true
 
 [[files]]
+file = "mods/nullscape.pw.toml"
+hash = "a85fb3647fe5692df780a50da4b235c064907fbf5379b176578848adb608fa91"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "e0f1f9d729b05dbbb7bfd68cdf8a6e0c2e1414ffbc29caf37efc79a45481198c"
 metafile = true
@@ -1212,6 +1217,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity-better-combat-addon.pw.toml"
 hash = "9a4c691d040cc24afe2f6230e6ba0a86e61eaae8a2869afad54e197c4888efa4"
+metafile = true
+
+[[files]]
+file = "mods/stellarity.pw.toml"
+hash = "906b8c8b5b7d02106cf385275af5debe8605f9f8833702e84cc34bae69b6e649"
 metafile = true
 
 [[files]]

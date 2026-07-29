@@ -1,0 +1,18 @@
+name = "Stellarity"
+filename = "Stellarity-5.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/e7wFdNOX/Stellarity-5.5.4.jar"
+hash-format = "sha512"
+hash = "35dedec3cbbdb3e72c8402b6c1eb04486698b361c78a72164b456c396c00b30d212be2279c936d1c58af85fb15dc1f1770162f3021c3f275f5c3062411da53da"
+
+[update]
+[update.modrinth]
+mod-id = "bZgeDzN8"
+version = "e7wFdNOX"
+
+[option]
+optional = true
+default = true
+description = "Optional mod"
