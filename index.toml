@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3d2fce19d393b65c5585bcb64952d2f07f9a2d63f8e34c79cf718affc452313e"
+hash = "4059a6a1a733c65f24998221c5c965d85db4c0135d1d2206f6b8ece1e7cb85b4"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/gigantic-squid.pw.toml"
-hash = "5c1315e51c84299dd40409f7810ef5a22a7933f1f3faadfd76875a292460f7e4"
+hash = "bd70c1d9b25328b39f57f0a90af69474a7be879b661d760f77142bd991554044"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/impulse-grapple.pw.toml"
-hash = "64910f65b614f9b47b1e69a40e42b3def4c4df91fbb1d3390431d2c0ab46a896"
+hash = "ec1596f80f6934354b877e98e7824742bbd6e60c0a88812414be274f453ae3db"
 metafile = true
 
 [[files]]
@@ -1391,6 +1391,16 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
 metafile = true
 
 [[files]]

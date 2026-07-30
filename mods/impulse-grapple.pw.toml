@@ -1,6 +1,6 @@
 name = "Impulse Grapple"
 filename = "impulse-grapple-1.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/oNRsp3qV/versions/Jyx801M8/impulse-grapple-1.0.0.jar"
