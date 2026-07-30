@@ -1,6 +1,6 @@
 name = "Stellarity x Nullscape ~ Compatibility"
 filename = "Stellarity-5.5.4-NSC.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/bxgn7qmu/versions/cFgi8Grq/Stellarity-5.5.4-NSC.zip"

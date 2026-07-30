@@ -393,6 +393,14 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "357d100bcc7043386fd799faca69e6db773579c1dbd984f41bacdd48fa959b41"
 
 [[files]]
+file = "config/fancymenu/assets/boiscraft.png"
+hash = "49640f669021888052d77fef6842b2def1011579db3e7337f5a6c3f38d98c3e7"
+
+[[files]]
+file = "config/fancymenu/assets/bubencraft.png"
+hash = "c82463fec1eaed2f0120c957e518b73f4e351fd7ff2f37c7b8cd6bf4013b0866"
+
+[[files]]
 file = "config/fancymenu/assets/ricardo_16x.png"
 hash = "c65948507729563adfd0699a4f159975e6ac7226c4815a2d4cd1bd907535131f"
 
@@ -406,7 +414,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "0169687d5928d6b3476ca9367bc8740bc62e58925b3efee537a91f22a66e08bc"
+hash = "7d52c55b4c388a074aeeefe37155da7d7b7f9726b378699c5a1b8ae894a177fa"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "106cfebc56fa17a42d725197cd60adbc4f980788e3dec5b4c6b3f967704dd4fd"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1114,17 +1126,17 @@ hash = "6a0de96ef510a4ec48551da33db70e4a8ca774cb586e49e2157922ef597a3ee2"
 
 [[files]]
 file = "datapacks/dnt-stellarity-compat.pw.toml"
-hash = "fac12cddea73b1d3fb81a80853ed83833e37d5cfb875383618bb6c4fd8eab7af"
+hash = "2f06a28cd5c9a2d547c73bde83bcdfc80ee2ab55bc413ac014e41f0f931a2cd6"
 metafile = true
 
 [[files]]
 file = "datapacks/stellarity-x-nullscape.pw.toml"
-hash = "03b55215f113632c4b668988edefc3792ef5cf8a3eafd9f26338ff8cb3fafc79"
+hash = "b267b5b240195b246dd26ca1f2b414d8e779ae8db52e28213bf28e36fe2ca1a2"
 metafile = true
 
 [[files]]
 file = "datapacks/stellarityxyung.pw.toml"
-hash = "e231314203ed4b4cfdbcc417ce34d34243c899e43959b837c070ef92b430e1c5"
+hash = "7fc293a87971852fd57cd680c2e9bb846fdd113bd37021ab58c24ac62e9d4a05"
 metafile = true
 
 [[files]]
@@ -2219,7 +2231,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "e9e61cbecbe61ffca290a727a543dec15aa848e37e1cafffb6d6c11d7ebb04b7"
+hash = "14334e6728142fe12333f33ef24d7d82b8991d4a714e114df8ccd43d25cfde28"
 metafile = true
 
 [[files]]
