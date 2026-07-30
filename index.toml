@@ -1379,11 +1379,6 @@ hash = "51505b701e0685a34ff701e7a587c2dc7fcc503d7f4b61b49142607a8bc4a2b6"
 metafile = true
 
 [[files]]
-file = "mods/verticality_mod.pw.toml"
-hash = "c9cef00d1495a82d9c4b9ae23bdb0b18473242a79611e3db6766e7802b18e754"
-metafile = true
-
-[[files]]
 file = "mods/visual-jukebox.pw.toml"
 hash = "cea917bcc2bc16aa236acfc75ac78222aca34687ab1e3eeaa9cc802d40d081e4"
 metafile = true
