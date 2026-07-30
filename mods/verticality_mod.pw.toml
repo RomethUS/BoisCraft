@@ -1,0 +1,13 @@
+name = "Verticality"
+filename = "Verticality_1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rUhoJKLZ/versions/gT7qu84i/Verticality_1.21.11.jar"
+hash-format = "sha512"
+hash = "a8032cca389c2406d3e6cef1c49a66d01ef27a94de842761edc2eba67d85a94752a05cde0f90c1889fe1bf4d27a08516ca1c676a01c1202db7072e448a50a202"
+
+[update]
+[update.modrinth]
+mod-id = "rUhoJKLZ"
+version = "gT7qu84i"

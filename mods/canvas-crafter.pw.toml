@@ -1,0 +1,13 @@
+name = "Canvas Crafter"
+filename = "canvascrafter-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vIRzZvSU/versions/R0qUKHTH/canvascrafter-1.0.jar"
+hash-format = "sha512"
+hash = "2d2492c0b4ffaefb78ec0adb323c0105def55e1f244f9e865707f39a8886e51ffc664b56513aec59a203db1745f402daf9995cee40e36b6319f5eba1dad296c0"
+
+[update]
+[update.modrinth]
+mod-id = "vIRzZvSU"
+version = "R0qUKHTH"

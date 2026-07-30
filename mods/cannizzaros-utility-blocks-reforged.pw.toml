@@ -1,0 +1,13 @@
+name = "Cannizzaro's Utility Blocks Reforged"
+filename = "Cannizzaro's Utility Blocks Reforged 1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9WYAJqKJ/versions/ZiZBneaw/Cannizzaro%27s%20Utility%20Blocks%20Reforged%201.1.jar"
+hash-format = "sha512"
+hash = "65407018950fac5b68e03bb1501cefb2fcbcc7a50d229a5eda7cba0b782fc10a12b8039bf28d6672f2ed93ec208add30de19e10c5c5288bc0e4ad6fd2fdfa798"
+
+[update]
+[update.modrinth]
+mod-id = "9WYAJqKJ"
+version = "ZiZBneaw"

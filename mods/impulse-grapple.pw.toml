@@ -1,0 +1,13 @@
+name = "Impulse Grapple"
+filename = "impulse-grapple-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNRsp3qV/versions/Jyx801M8/impulse-grapple-1.0.0.jar"
+hash-format = "sha512"
+hash = "86f994c6330182510c48f4c49c4925c60788d4db37d4a22a153a91324f6e9329acccb14dac187cf1f60817ccce4e7c26ba7093e59e59205a496cabfd33660302"
+
+[update]
+[update.modrinth]
+mod-id = "oNRsp3qV"
+version = "Jyx801M8"

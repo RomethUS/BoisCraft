@@ -1,0 +1,13 @@
+name = "Unified API"
+filename = "unified-api-21.11-b2.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWUn8M9s/versions/lK8RqwTW/unified-api-21.11-b2.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "3a560af66d4ae580b0b8bd9d1929bb82449fe391b5d70b574033bfc1659ecf024b7fecbb872fb5cffe1b5f855705d096beeb0f0976627cdb23625193f2d73353"
+
+[update]
+[update.modrinth]
+mod-id = "vWUn8M9s"
+version = "lK8RqwTW"

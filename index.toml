@@ -254,6 +254,16 @@ hash = "1fdff82937e5c40e0ddeeb33ec5922bb2db00d8f95f94434645e4bbe3f43e551"
 metafile = true
 
 [[files]]
+file = "mods/cannizzaros-utility-blocks-reforged.pw.toml"
+hash = "20ec9d3b29278a0e643c82411c3d9e1c4d37cca0baa5ab8ba8c9ef00a539e7bb"
+metafile = true
+
+[[files]]
+file = "mods/canvas-crafter.pw.toml"
+hash = "875389ab405f20da948b81ee5f10243c30ae920532c065d86092d06c0485a33b"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "a267a3739b637f5e7811eaf5ab717da0c2c41f051f9420844f84caa4907db358"
 metafile = true
@@ -311,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "eb7903d345e8f8131561fc51bfd702ddd355c675661921af08e9d8499e7a8d7c"
+metafile = true
+
+[[files]]
+file = "mods/combat-reborn.pw.toml"
+hash = "435fc79b6637c95f422c0cb61d126fe1d8245b8c439aaf24b9617c3c0f0ac559"
 metafile = true
 
 [[files]]
@@ -724,11 +739,6 @@ hash = "845107052e92be3225e8d2e939552b090119c86ccdf6b12b9ec44e993054e742"
 metafile = true
 
 [[files]]
-file = "mods/hooking-hookshot.pw.toml"
-hash = "8e99996674ba0807ba613970cadabc386e6cea648fc97ba1bd0b50da4431e910"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "e651ba1c127d07ba7e0649ce3c14e061b43a85d20ad194cb6b6f09021859e685"
 metafile = true
@@ -736,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-hotbar.pw.toml"
 hash = "06bbcff2065c3024e83a16403d0940cf05453f26ad17f6517abbbb460e327814"
+metafile = true
+
+[[files]]
+file = "mods/impulse-grapple.pw.toml"
+hash = "64910f65b614f9b47b1e69a40e42b3def4c4df91fbb1d3390431d2c0ab46a896"
 metafile = true
 
 [[files]]
@@ -1349,6 +1364,11 @@ hash = "75ef6c2a9841b2210eeaf9f8b2954bf6c1bde435609743e7f9121d366a8f6a29"
 metafile = true
 
 [[files]]
+file = "mods/unified-api.pw.toml"
+hash = "b7752242a0c1358948e394207f68bd9c1b3f8e7593d7e1aaa98d66a379384fed"
+metafile = true
+
+[[files]]
 file = "mods/untitled-duck-mod.pw.toml"
 hash = "aef1878b622054ff2370d06bf00f9972df83d667220b37ac4266ccc421063ffa"
 metafile = true
@@ -1356,6 +1376,11 @@ metafile = true
 [[files]]
 file = "mods/useless-reptile.pw.toml"
 hash = "51505b701e0685a34ff701e7a587c2dc7fcc503d7f4b61b49142607a8bc4a2b6"
+metafile = true
+
+[[files]]
+file = "mods/verticality_mod.pw.toml"
+hash = "c9cef00d1495a82d9c4b9ae23bdb0b18473242a79611e3db6766e7802b18e754"
 metafile = true
 
 [[files]]
@@ -1452,6 +1477,10 @@ hash = "edfe5a8335decba3e00c7e7b07320703d9afac791ed00afe8830af11c0767dee"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Clearer Slot Highlight.zip"
+hash = "1aecf7a57797a1552035f0d6236ae80ba456d7572ca0cb9717fe0026fe323ee2"
+
+[[files]]
 file = "resourcepacks/Comforts Modernized - V1.1.zip"
 hash = "b3050d84c0be41dae853e550c07acb1f768880c41472b44d701c03e9b1bc4734"
 
@@ -1462,6 +1491,10 @@ hash = "404c3f922f6b865f0f492de9bd7a85a98492cb87634745d37aaea74c44d93f80"
 [[files]]
 file = "resourcepacks/EvenBetterEnchants_v3_1.21.5+.zip"
 hash = "111b09481dc2e1153f8bdae530fbe0ae3028113fef154e46ab43ceafe7910dc8"
+
+[[files]]
+file = "resourcepacks/Excalibur Inventory HUD+ v1.0.zip"
+hash = "82866f83a5f50044c4d0f317e9407157db29af3a7f492759aafe9ddf3a709517"
 
 [[files]]
 file = "resourcepacks/FA+Creepers-v2.1.zip"
@@ -1568,6 +1601,10 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/intelstellar black hole by koto (1.0).zip"
+hash = "98e17025c09807dd11fbb97b2afbcc7404506fe31f80d7741c713f4fbd06b342"
+
+[[files]]
 file = "resourcepacks/stellarity-bettercombat-rp-fix.pw.toml"
 hash = "e585aa6d5a97da59109f09b67346440a4c9d5ae0b37548ce39d5bfae2951d41e"
 metafile = true
@@ -1578,12 +1615,24 @@ hash = "23c08b75f202558eed24bea2bba5f97f22c94eac9bade05b06572fb179d20748"
 metafile = true
 
 [[files]]
+file = "resourcepacks/stone_buttons_v.0.1.zip"
+hash = "95978bf29ebe2f94c1b2d78fe6da6f16b7ad9108f707d9df8e7ec98bf3821268"
+
+[[files]]
 file = "resourcepacks/visual_armor_trims_4.2.zip"
 hash = "ea1fc0afee40255444770a926352c0acee95c69c342b850ae1b53927ac73d4dd"
 
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
 hash = "91e8303b22d921074619252b9b66b9fc2127c97aa7a6d487f39056900c091547"
+
+[[files]]
+file = "resourcepacks/§6Immersive§8_§6Interfaces§8_§6Armor_Hud§8.zip"
+hash = "eef8569a37cdf41ea7a24db638639cdc2c1acf7a66f3d75549140a6ad8939138"
+
+[[files]]
+file = "resourcepacks/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
+hash = "c2c89dbffd3d45e569ecb0c2e21f781c849ddde9a5fc371268dbd5b62460b6b4"
 
 [[files]]
 file = "resourcepacks/§lBetter Beds.zip"

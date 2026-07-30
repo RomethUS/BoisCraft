@@ -1,0 +1,13 @@
+name = "Combat Reborn"
+filename = "combat_reborn-21.11-r6.4-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b3L9JgTp/versions/9VdaHgD9/combat_reborn-21.11-r6.4-fabric.jar"
+hash-format = "sha512"
+hash = "2c7294da548e38a47b87dac5e561a0b78fcb6b1aae6583888b15d4cbe2bd95740e1710e774f41d53028560f89fdc850cc62552e16786c6d75aa6e9492b7267f2"
+
+[update]
+[update.modrinth]
+mod-id = "b3L9JgTp"
+version = "9VdaHgD9"
