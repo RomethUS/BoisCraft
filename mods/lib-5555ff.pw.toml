@@ -1,6 +1,6 @@
 name = "5555ff-lib"
 filename = "lib-5555ff-v1.1.4.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Lr1LVAwO/versions/1Qt19x6c/lib-5555ff-v1.1.4.jar"

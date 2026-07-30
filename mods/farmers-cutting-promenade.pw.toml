@@ -1,6 +1,6 @@
 name = "Farmer's Cutting: Promenade"
 filename = "farmers-cutting-promenade-26.1.2-1.1a-fabric.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/eAGs83gV/versions/Y5DD93GU/farmers-cutting-promenade-26.1.2-1.1a-fabric.jar"

@@ -1,6 +1,6 @@
 name = "Dragonkind Evolved | End Battle Reborn"
 filename = "dragonkind-evolved-1.12.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/yo1bGdBx/versions/ylIAotjR/dragonkind-evolved-1.12.jar"

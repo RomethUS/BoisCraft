@@ -1,6 +1,6 @@
 name = "Stellarity Better Combat Addon"
 filename = "stellarity-better-combat-addon-5.4.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/WpCJKqzS/versions/nvcjL4t3/stellarity-better-combat-addon-5.4.2.jar"

@@ -1,6 +1,6 @@
 name = "Dynmap®"
 filename = "Dynmap-3.8-fabric-1.21.11.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRQREgAc/versions/4UHHD4t6/Dynmap-3.8-fabric-1.21.11.jar"

@@ -1,6 +1,6 @@
 name = "Call Your Nautilus"
 filename = "call-your-nautilus-v1.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/K9DyYgW3/versions/2R22XT8w/call-your-nautilus-v1.3.0.jar"

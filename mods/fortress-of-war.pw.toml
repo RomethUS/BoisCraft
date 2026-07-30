@@ -1,6 +1,6 @@
 name = "Fortress of War | Nether Fortress Update"
 filename = "fortress-of-war-1.1.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/gohytQhh/versions/YFoZacQd/fortress-of-war-1.1.1.jar"
