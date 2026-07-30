@@ -1,0 +1,13 @@
+name = "Gigantic Squid"
+filename = "gigantic-squid-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rq4jtsUN/versions/1IQK2BnW/gigantic-squid-1.2.jar"
+hash-format = "sha512"
+hash = "ec859dddcac555c2016a02984e7bbfd17d733a1c510f17402d876da6ff050db46850934c4e7d6c76377f0559bc8d45c8f2816ff9e3a010cafc593486a8bfbcc3"
+
+[update]
+[update.modrinth]
+mod-id = "rq4jtsUN"
+version = "1IQK2BnW"
