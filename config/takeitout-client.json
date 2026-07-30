@@ -1,0 +1,7 @@
+{
+  "autotakeout": true,
+  "single_item_mode": false,
+  "render_container_sources": true,
+  "item_sort_mode": "name",
+  "container_source_outline_color": "#22C55E"
+}

@@ -1,0 +1,20 @@
+{
+  "uncap_menu_frame_rate": true,
+  "idle": {
+    "condition": "none"
+  },
+  "states": {
+    "hovered": {
+      "frame_rate_target": -1,
+      "enable_vsync": true,
+      "run_garbage_collector": true
+    },
+    "unfocused": {
+      "frame_rate_target": 10,
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "run_garbage_collector": true
+    }
+  }
+}

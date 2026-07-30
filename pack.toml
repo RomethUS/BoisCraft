@@ -1,12 +1,12 @@
 name = "BoisCraft"
 author = "Womes"
-version = "0.0.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9a03b12d966ce128534e2bf799e7a53e1a2f40e43a9710bec62ff1eed7ba60a6"
+hash = "923921d163b61eb205a929959db30c23e9445576567c499edb75309a1a891509"
 
 [versions]
 fabric = "0.19.3"

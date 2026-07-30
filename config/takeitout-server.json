@@ -1,0 +1,6 @@
+{
+  "linked_container_exchange_mode": "cross_dimension",
+  "linked_container_scan_limit": 64,
+  "allow_all_items_take": true,
+  "allowed_exchange_dimensions": []
+}

@@ -1,0 +1,12 @@
+{
+  "grassPlantsRequired": 3,
+  "eatCooldownMinSeconds": 8,
+  "eatCooldownMaxSeconds": 20,
+  "cocoonGrowthSeconds": 120,
+  "silkMothLifetimeSeconds": 300,
+  "naturalSilkwormSpawning": true,
+  "enableSilkwormGrowth": true,
+  "enableCocoonHatching": true,
+  "enableMothTaming": true,
+  "enableMothRiding": true
+}

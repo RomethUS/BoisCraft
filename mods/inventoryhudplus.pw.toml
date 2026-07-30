@@ -11,3 +11,8 @@ hash = "0153429ab926bb7f75cc2e86f557a4b10869943e30696d520372016d1f1db3f5b7f4c529
 [update.modrinth]
 mod-id = "Kp2uclYl"
 version = "mZy4fW0C"
+
+[option]
+optional = true
+default = false
+description = "Custom Inventory Overlay"

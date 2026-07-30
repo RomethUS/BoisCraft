@@ -11,3 +11,8 @@ hash = "c0b0459a94a937cad4598068ab04a62d407bf2561e6cc6b753f23f62da5cf7663c0f73bf
 [update.modrinth]
 mod-id = "b1fMg6sH"
 version = "o37Yx5IL"
+
+[option]
+optional = true
+default = true
+description = "Colored Item Borders"
