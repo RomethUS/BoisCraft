@@ -1434,6 +1434,14 @@ hash = "0d3405e537262b4afe76df6c9a884d1a7acbf5b6152109f4cc14b76a3551af7b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/3D Lantern.zip"
+hash = "25daddd9e1a4e41db39a734985f8863073dbdae83706cd3d90c043b28e595082"
+
+[[files]]
+file = "resourcepacks/3D Nautilus Shell and Armor.zip"
+hash = "4f5dae354201b99ecdc978b6ed5fdde9d8ef8754dce1fbaa5894605464e9b049"
+
+[[files]]
 file = "resourcepacks/3d-lantern.pw.toml"
 hash = "f3d2fe1c94d9f443e933df3fa36c94e6e7ed8c88d3607bd9eaaa3268b5620556"
 metafile = true
@@ -1442,6 +1450,82 @@ metafile = true
 file = "resourcepacks/3d-nautilus-shell-and-armor.pw.toml"
 hash = "edfe5a8335decba3e00c7e7b07320703d9afac791ed00afe8830af11c0767dee"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Comforts Modernized - V1.1.zip"
+hash = "b3050d84c0be41dae853e550c07acb1f768880c41472b44d701c03e9b1bc4734"
+
+[[files]]
+file = "resourcepacks/Dramatic Skys Demo 1.5.3.36.5.zip"
+hash = "404c3f922f6b865f0f492de9bd7a85a98492cb87634745d37aaea74c44d93f80"
+
+[[files]]
+file = "resourcepacks/EvenBetterEnchants_v3_1.21.5+.zip"
+hash = "111b09481dc2e1153f8bdae530fbe0ae3028113fef154e46ab43ceafe7910dc8"
+
+[[files]]
+file = "resourcepacks/FA+Creepers-v2.1.zip"
+hash = "17a3dab28d7c11a5867a513eafe8e386127431270d6c0716d283b0f600c02a36"
+
+[[files]]
+file = "resourcepacks/FA+Details-v2.2.1.zip"
+hash = "ab5b5526f0a961cea6d31e456593f0fa16448479ec588630c33f2a42590469e7"
+
+[[files]]
+file = "resourcepacks/FA+Emissive labPBR.zip"
+hash = "e3573f3fcd3a349322758105b5caf55f0a60e809f1d383a1b67ab8543f76093a"
+
+[[files]]
+file = "resourcepacks/FA+Emissive-v1.6.zip"
+hash = "4da38e4f1580da77e308a551b5bb3bf9d8926c14fd0b4bb9275c90f9c3f6b609"
+
+[[files]]
+file = "resourcepacks/FA+Player-v1.1.zip"
+hash = "9ee3ae5b2fe5cd980e4041429dc66d88243f5f2420e2814e5361c746ad937f33"
+
+[[files]]
+file = "resourcepacks/FA+Quivers-v2.2.zip"
+hash = "096a26b0a0ad3054a86efb5663566e4f4696b5cc427588dabf52339bae541374"
+
+[[files]]
+file = "resourcepacks/FA+Spiders-v2.2.zip"
+hash = "3abaf22bab90efbf126e34492740efe4ca16acc4cfd372d546ea1f7779b00f0e"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.4.zip"
+hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
+
+[[files]]
+file = "resourcepacks/Frogcrafting Hotbar.zip"
+hash = "e36399e783910ec804f5a0cb6b93b2447eff74bda4c0681650eaf25488a54451"
+
+[[files]]
+file = "resourcepacks/Nautilus3D-26.2.zip"
+hash = "f50cd402113ffba71f01747faf3be20e6c24f9aa09a74efe017c4e2aa78ea396"
+
+[[files]]
+file = "resourcepacks/Overgrown Flowery Hotbar.zip"
+hash = "85fb48be574ad93e6a159571f578907d816c1bfd214af4c8295cce16c937d351"
+
+[[files]]
+file = "resourcepacks/STBC-Fix.zip"
+hash = "0fe2e6ed0c53ecdf2672769528076c9df4293c3f68b3a2e43c2899c0de5c8024"
+
+[[files]]
+file = "resourcepacks/Stellarity-5.5.4-RP.zip"
+hash = "a81399e4d0794c2ead4ae317dfa3e5e04afc74baeb1501ea0926194b4a114c32"
+
+[[files]]
+file = "resourcepacks/Sweet sweet hotbar-- 1.21.zip"
+hash = "81f5c3d87c2609d32a1a22befd4e24b47b818a3076ac010937d67fb9fa19022d"
+
+[[files]]
+file = "resourcepacks/Torchified - VT smaller utilities.zip"
+hash = "d9831719691289de6655c284b9f2ceecb09fdd26fdbb936f7b400e7e1e3e7c41"
+
+[[files]]
+file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
+hash = "91fff02fa7924642011f8aeb45623a3fedcbe7fdfda28079eb59430fb7cc58f9"
 
 [[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
@@ -1492,6 +1576,18 @@ metafile = true
 file = "resourcepacks/stellarity-rp.pw.toml"
 hash = "23c08b75f202558eed24bea2bba5f97f22c94eac9bade05b06572fb179d20748"
 metafile = true
+
+[[files]]
+file = "resourcepacks/visual_armor_trims_4.2.zip"
+hash = "ea1fc0afee40255444770a926352c0acee95c69c342b850ae1b53927ac73d4dd"
+
+[[files]]
+file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+hash = "91e8303b22d921074619252b9b66b9fc2127c97aa7a6d487f39056900c091547"
+
+[[files]]
+file = "resourcepacks/§lBetter Beds.zip"
+hash = "83d3686c9e93359ac6bb8ab4dde58724302204f3e97cac6d48d94eb132575892"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.3.zip"
