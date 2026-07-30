@@ -354,11 +354,6 @@ hash = "3434867ea9539550f69aa750b3560340482dd035774dc73de58499632d4239e9"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "042f06ea0a472f05499196dc8447be528540e996b4dd1d8cefdb96ed85e4cdc0"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "68c6477036776aa38a7636dcb5739a5b82886d3ee9ae1b61b76ecd40617ca9e3"
 metafile = true
