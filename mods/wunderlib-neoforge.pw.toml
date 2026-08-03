@@ -1,0 +1,13 @@
+name = "WunderLib: New Dawn"
+filename = "wunderlib-21.11.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HZmhgdJk/versions/RwZApYL6/wunderlib-21.11.2-fabric.jar"
+hash-format = "sha512"
+hash = "33de6dfcafb25980f35beed01b0d761bc01efe343a4ea147f1919c10fed3bb9e44c7ae6ceccc0e71e8252f06ac6534bba19149f225df206399ba4933473b111e"
+
+[update]
+[update.modrinth]
+mod-id = "HZmhgdJk"
+version = "RwZApYL6"

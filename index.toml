@@ -1331,7 +1331,7 @@ preserve = true
 
 [[files]]
 file = "config/wover/main.json"
-hash = "7c0f17a12c3e0c4827f61a04c236c37404c8433241d32c6fb556586361e709d1"
+hash = "a9e875c9aa3e47c630f44ac841ab123e10adf80ebe3f9552e966cb0ca30f0b35"
 preserve = true
 
 [[files]]
@@ -1561,7 +1561,7 @@ metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "23ccb09d0d71e059960a5c1402c2c1b900c00b1404cbb6ff65c3357610476885"
+hash = "f63d789ebe304275848b1230b0642fd2f6e3779ee17befbc2fdb540c28567cd2"
 metafile = true
 
 [[files]]
@@ -1587,6 +1587,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "3c4d4c97d1a3cb0c9818a8e95f56f551a6f0dfdc86ac3a9955ffceb47d1fe2fe"
+metafile = true
+
+[[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "268577f82660ff312a6376675273298e82b972c5642e0d45820621213a32524a"
 metafile = true
 
 [[files]]
@@ -1637,6 +1642,16 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "b74e29a4d3ddf5cbd67355db2cdb02fae0fa6d930b1a232ade04a5e30030ef11"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "37ed89ccdb16610fa74aa91877f836145a350598bfd5e8a3f63369ba59be2310"
+metafile = true
+
+[[files]]
+file = "mods/betternether-neoforge.pw.toml"
+hash = "ef7c49caa6b62c5e4eaa23a94ece87d081bef8daf881184fe0b35aa7a1200b06"
 metafile = true
 
 [[files]]
@@ -2485,8 +2500,18 @@ hash = "d834a23dade08b30d08e58521d51800d6453e195a6e0af2b2b70b09b8d3199ee"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "489b14469e99f5e8fbf6ba77c50e67f520ffda0fc2f6d49912820437896f2335"
+metafile = true
+
+[[files]]
 file = "mods/reddens-stone-lantern-reconstructed.pw.toml"
 hash = "e962ad693da6e8c7dcd33046859cd7ee1ddd66c48eaa43e0948d3f2843d3dbd7"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
 metafile = true
 
 [[files]]
@@ -2732,6 +2757,16 @@ metafile = true
 [[files]]
 file = "mods/worldthreader.pw.toml"
 hash = "807ad08376d0ebf56ebbf5f39b44c3ce097dab1350330da819a0e5a381e14cb3"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "44eb9e0f4eb8ca808ae73a53a2e05bf6fc5040ac0802d89e66de4c337e877420"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "13efd7bc44c0126924dd9b70cace1884db6c9dc005bb470464c9df45518c5fab"
 metafile = true
 
 [[files]]
