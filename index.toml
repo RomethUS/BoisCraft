@@ -58,11 +58,11 @@ hash = "beba9b2bec8a2df054d8035dd698aad5587f9832247cfd921724254ad678ecc3"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "6ade3d5ba3de4a121ff13f1330fc52bd8be7baba81bf5d2305f8f86a00ad5aaf"
+hash = "b62f22fb270a2c42730be2498863f3c6e085a4d04185d77060db20d481daae2c"
 
 [[files]]
 file = "config/awesomedungeonocean_1.properties"
-hash = "3389ccd168b499678cbe874724ee9f13ff937e95db6fac2c8b553f9c127b4846"
+hash = "fb9c6aac230d996d86d259be68842473b8a3f67d4877860e0149818a8e261492"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -78,11 +78,11 @@ hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
 
 [[files]]
 file = "config/beltborne_lanterns.json"
-hash = "f1a13c5ef5ea4287e3553a5406880b35a65ec7c9727a542a4f2d2ffc558836c2"
+hash = "33c7e7c43c318a0bf4a57c64831285cf9657a6591c68efa3923ca6a14fa32830"
 
 [[files]]
 file = "config/beltborne_lanterns_lamps.json"
-hash = "4f9c649fd7dcd4f258d8c1dbcc3c866c54e9f3254df52c778cef8ae682db25b6"
+hash = "3cb2ec2feb706381a53ee2f5bbb1424cfad2e4093a6750d3d06e099d49c4ef58"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -186,7 +186,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
+hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
 
 [[files]]
 file = "config/boids.json5"
@@ -194,7 +194,7 @@ hash = "2ffbf8223c35fecaaf7ab2f2e4ef32f7332e846e9697ff067da1a5032b4093e8"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "2c7967fde6bdecff745a91e49d1394b3d686c91b921026929768571f264251e5"
+hash = "7136f48a3a8658f8f6b37e9e1b156f8bd4f8f6d73e16692b057a496375e2b191"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -254,7 +254,7 @@ hash = "dddb67551d3a2e7a8bdca19706b4ffc11d955120deaded86d0a14bc53575367c"
 
 [[files]]
 file = "config/combat_roll/client.json5"
-hash = "ae8d5f55b29bca88bbb6c333b729304fa1c6ad6bdbd834327fb54eade8343e38"
+hash = "4a287ecf96640340bc258629ced479efeedb9eaf1e9510e4f1e44ef63ca53254"
 
 [[files]]
 file = "config/combat_roll/hud_config.json"
@@ -302,7 +302,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f75f39b96dc9ad0b6e302f4e14d0ddc2fda3334daca6a7a78c97df510d96c64b"
+hash = "31c84375bd70e94e0e3703f79fdae029c45915009b8382b8a97282b9d4b75164"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/example.jexl"
@@ -378,7 +378,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/euphoria_patcher/.data.json"
-hash = "8a8b127975065d65197582a540f5dc6c2fb735b247cd58e079a705d96bac83a6"
+hash = "092eea676ec19ae91c2811780e5962a91529624b3bc4141657282026e4ddc195"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -394,7 +394,7 @@ hash = "731803d5490df54eb3e59f8d31bf528307c95b57e04d01acec772795cebf4605"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "ed7c197da6e63be82883371507f1df9414bc8d5cd6e505f443cd317d23ae577d"
+hash = "189c2059b53fbdcad4b5c1443ecf37dad52df2a0fe7266ff7bcb23512df1a04e"
 
 [[files]]
 file = "config/fancymenu/assets/boiscraft.png"
@@ -418,11 +418,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "7d52c55b4c388a074aeeefe37155da7d7b7f9726b378699c5a1b8ae894a177fa"
+hash = "907e3df89666007d03bebcdb345ee5e3c5ff3b605e3078677a4ad7e6f248bff1"
 
 [[files]]
 file = "config/fancymenu/customization/container_screen_layout.txt"
-hash = "e9815fa03321efe54f6d5fc42e948c8a1256bf02ffd391a5aace72cfa58853aa"
+hash = "695898b767ff889f50ae744284185a21f53430f25a3504fd5f8efe4921acc61e"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
@@ -434,7 +434,7 @@ hash = "44621089b35fe568862b6933301618b719f6a41dfb8cea1b0ac9a9de9849b8e4"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "06bc0e116785e59ac9d2eebc8e66ea2e4d2fa00dabe8c2850f5ea498c624d436"
+hash = "0f34abd33908892a5acf8ceb3015eadcf44df2c5553532a9d5739fe7fa47f6ac"
 
 [[files]]
 file = "config/fancymenu/customization/shulker_box_screen_layout.txt"
@@ -442,7 +442,7 @@ hash = "c197c64e1ad2da71531240dc1d55d283e7c30c28a3ae6f79c27fa39a99929a93"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "bfa00d0aa551bb28cb9d205c0bfd4a407de305d8a3e2ccfec951675aca786d1c"
+hash = "c31708192c418105fa6267664ecb4b3bc0caa0ef3bf03933b24c6dc904907c37"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -578,7 +578,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "0e438c42529094c1e0481895dafc8287e3a0d81d9b1b6f310941b195f0ddd9e5"
+hash = "fd5522fe7a81a371e07f11a366229f967e609427633659d6b73ea3749d6b38d8"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -610,7 +610,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "cf7c04b429ad6978ac4afb6821cfaf938b4d8f2677bd4cec5939fa4f2468120f"
+hash = "86519795319b7a97987dd01f40bf63d8c2588ecdf3f31e4ec4b3b93ec8c85e73"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -634,7 +634,7 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "07659331a89a0205f49232cfa280fa3889b7308e717fd26df29cbb6af480614c"
+hash = "97791b6586b80f5879c8f1e5e9c7508c525dc24a605025d0c93fa519725568f6"
 
 [[files]]
 file = "config/jei/world/local/New World (35)/lookupHistory.json"
@@ -654,7 +654,7 @@ hash = "989f4a2417de137009d2c0d5b053a07b4009cdabe33064ebfd7b73748fbc9b97"
 
 [[files]]
 file = "config/libraryferret_1.properties"
-hash = "212c61c974a7af3321c5b29eb56475b084280140187aa63c9d391f7b23d4f3d8"
+hash = "cb38176e3f2889915b372113ed5ede1bc18546544ca9b98494b7de2014cbf82f"
 
 [[files]]
 file = "config/litematica-companion.json"
@@ -663,6 +663,14 @@ hash = "3de9ec422793010257e907f87a1546ab9f9df240a41cae50dece40bb1a5cee95"
 [[files]]
 file = "config/litematica.json"
 hash = "46ba83f5667e6a612dd8432096f88846bbe329bc0cbdf695cf7d2400ca1f71ed"
+
+[[files]]
+file = "config/litematica/litematica_10.242.132.91_25565.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_10.242.132.91_25565_dim_minecraft_overworld.json"
+hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
 
 [[files]]
 file = "config/litematica/litematica_New World.json"
@@ -718,7 +726,7 @@ hash = "e525fbc8c60aa77bcf76f00fb384e744f039d178c7d00f5e6e72cac8b2931afc"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "7dc4219bc01d2b5814a92aa2f9d230c33b1986880ae7bcfdd0318d55676a6cd0"
+hash = "86c0cf16ca221cb0de8b46da9a0c81d558ca84d2b515a6ab7f85f2b801333e22"
 
 [[files]]
 file = "config/modmenu.json"
@@ -762,7 +770,7 @@ hash = "bf69102f3f5c232ae8fc3bcbfc7211e2c7fea3608e34d4f589bf50f85f1bb868"
 
 [[files]]
 file = "config/packed_packs/preferences.properties"
-hash = "04a43ed93862b1d2333d4e103d95bc1f4d584325c733072886a773d556e12757"
+hash = "c1c76e0efe6653d02394310e833f51702863030930b9c90040c99f70a597f379"
 
 [[files]]
 file = "config/packed_packs/profiles/resourcepacks/Standard Profile - 3D.profile.json"
@@ -2289,11 +2297,6 @@ hash = "0e12b4e6167f5e98e8b7e934bfbd16897461e008b6cd8e1b762c216f181812f9"
 metafile = true
 
 [[files]]
-file = "mods/stellarity-better-combat-addon.pw.toml"
-hash = "9a4c691d040cc24afe2f6230e6ba0a86e61eaae8a2869afad54e197c4888efa4"
-metafile = true
-
-[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "e7c5df71dcc702709f71e7507a360c6211689a0b3fbe7a61d29decf49bc095e1"
 metafile = true
@@ -2421,6 +2424,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f662d6e7fba9ef5663eec98c4c9a4c4cbc8b51890b8868cec0b5f2435af17293"
+metafile = true
+
+[[files]]
+file = "mods/worldthreader.pw.toml"
+hash = "807ad08376d0ebf56ebbf5f39b44c3ce097dab1350330da819a0e5a381e14cb3"
 metafile = true
 
 [[files]]
