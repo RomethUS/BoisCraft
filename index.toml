@@ -2745,11 +2745,6 @@ hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
 metafile = true
 
 [[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "35d5c3df88ea471adf2e536257df79453cbe5e264357c2c6ffe7835c17f53feb"
-metafile = true
-
-[[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "2b35b9a37684927a406d0d22e7572313fbd536aa68e0b103b3743692265c0701"
 metafile = true
