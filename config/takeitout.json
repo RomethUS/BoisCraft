@@ -1,0 +1,31 @@
+{
+  "Generic": {
+    "containerSourceOutlineColor": "#FF22C55E"
+  },
+  "GenericHotkeys": {
+    "openConfigGui": {
+      "keys": "X,T"
+    },
+    "autoTakeOut": {
+      "keys": "R"
+    },
+    "singleItemMode": {
+      "keys": "B"
+    },
+    "linkLookedAtContainer": {
+      "keys": "H"
+    },
+    "toggleContainerSourceRender": {
+      "keys": ""
+    },
+    "markDumpContainer": {
+      "keys": "G"
+    },
+    "dumpNow": {
+      "keys": ""
+    },
+    "boxSelectCorner": {
+      "keys": ""
+    }
+  }
+}

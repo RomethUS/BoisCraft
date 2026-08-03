@@ -1,0 +1,123 @@
+{
+  "general": {
+    "masterEnable": true
+  },
+  "materials": {
+    "gold": {
+      "enabled": true,
+      "daytimeRestriction": true,
+      "damagePerPiece": 1.0,
+      "speedPerPiece": 0.07,
+      "armorPerPiece": 1.0,
+      "attackSpeedPerPiece": 0.5
+    },
+    "netherite": {
+      "enabled": true,
+      "armorPerPiece": 2.0,
+      "toughnessPerPiece": 1.0,
+      "dodgePerPiece": 0.075
+    },
+    "iron": {
+      "enabled": true,
+      "miningPerPiece": 1.0,
+      "grantsHaste": true
+    },
+    "amethyst": {
+      "enabled": true,
+      "negateProcChance": 0.05,
+      "damageMultPerPiece": 0.5,
+      "damageProcChance": 0.05
+    },
+    "diamond": {
+      "enabled": true,
+      "damageReductionPerPiece": 0.05
+    },
+    "copper": {
+      "enabled": true,
+      "requiresThunder": true,
+      "requiresSkyAccess": true
+    },
+    "redstone": {
+      "enabled": true,
+      "speedPerPiece": 0.12
+    },
+    "emerald": {
+      "enabled": true,
+      "discountPerPiece": 0.0625,
+      "maxDiscount": 0.25
+    },
+    "quartz": {
+      "enabled": true,
+      "xpBonusPerPiece": 0.25
+    },
+    "lapis": {
+      "enabled": true,
+      "requiredPieces": 4,
+      "magnetRange": 8.0
+    },
+    "resin": {
+      "enabled": true,
+      "damageMultiplierPerPiece": 0.0625
+    }
+  },
+  "patterns": {
+    "bolt": {
+      "enabled": true
+    },
+    "coast": {
+      "enabled": true
+    },
+    "dune": {
+      "enabled": true
+    },
+    "eye": {
+      "enabled": true
+    },
+    "flow": {
+      "enabled": true,
+      "speedPerPiece": 0.05
+    },
+    "host": {
+      "enabled": true
+    },
+    "raiser": {
+      "enabled": true,
+      "damagePerPiece": 1.0
+    },
+    "rib": {
+      "enabled": true,
+      "healthPerPiece": 2.0
+    },
+    "sentry": {
+      "enabled": true,
+      "armorPerPiece": 2.0
+    },
+    "shaper": {
+      "enabled": true
+    },
+    "silence": {
+      "enabled": true
+    },
+    "snout": {
+      "enabled": true
+    },
+    "spire": {
+      "enabled": true
+    },
+    "tide": {
+      "enabled": true
+    },
+    "vex": {
+      "enabled": true
+    },
+    "wayfinder": {
+      "enabled": true
+    },
+    "ward": {
+      "enabled": true
+    },
+    "wild": {
+      "enabled": true
+    }
+  }
+}

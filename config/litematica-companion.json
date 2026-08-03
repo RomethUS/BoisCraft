@@ -1,0 +1,11 @@
+{
+  "litematica-companion": {
+    "enabled": false,
+    "sidebarBuffer": 50,
+    "widgetOpacity": 80,
+    "padding": 4,
+    "minScale": 60,
+    "backgroundPreset": "Dark",
+    "backgroundColor": "#00000000"
+  }
+}

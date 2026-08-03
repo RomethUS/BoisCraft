@@ -1,6 +1,6 @@
 name = "SpiffyHUD"
 filename = "spiffyhud_fabric_3.1.2_MC_1.21.11.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/wtOPHICQ/versions/IYnaya6V/spiffyhud_fabric_3.1.2_MC_1.21.11.jar"
