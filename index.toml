@@ -1484,11 +1484,6 @@ hash = "3cf585f683c34f88e6865c2e1cb253b19d3b1c00946b9a34062719bb9b12594f"
 metafile = true
 
 [[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "6651564bbe29f03ca8bc4bdd3083007ca06cf805d80e89901da4f386e1c211d0"
-metafile = true
-
-[[files]]
 file = "mods/cute-animal-models-backport.pw.toml"
 hash = "8c9ac53bfb4612952b482aef13a712291c741d89f00cc5d4ab1207c03687e8bd"
 metafile = true
