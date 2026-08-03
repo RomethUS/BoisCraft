@@ -1604,11 +1604,6 @@ hash = "302899d82ac24b9a25aa45d5791ef8dacb57ca97f7dafbe22bfbccca43549149"
 metafile = true
 
 [[files]]
-file = "mods/endfire.pw.toml"
-hash = "a7a7d1d9248ed293dc303006abdef8bb4b42abf66367e6507ceb267ee7c46eb4"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
@@ -1716,11 +1711,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
-metafile = true
-
-[[files]]
-file = "mods/filament.pw.toml"
-hash = "ecb360eb737890272786963d7bab90f0ce9cc45b4fd67ef1cfa652e8a0d32970"
 metafile = true
 
 [[files]]
