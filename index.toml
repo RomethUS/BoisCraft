@@ -1851,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "728a2c9d389440f1f8e80324ff23824135a3baf86bef5752ba6d8cf1c53d1ac7"
+hash = "fdcbe838dc3849778b6036ed2c02b0bf69d4664e342c219b4c7c8a25d5f6491e"
 metafile = true
 
 [[files]]
@@ -2036,7 +2036,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "e274cd8e37cab2c375c3f3acd0d4b1c89790007ebc3318cbede4f420e410bf1a"
+hash = "c3b175ab6e4fbfc05f711d7ec4002ceee0ca8486a59603d181ada819d5350e02"
 metafile = true
 
 [[files]]
@@ -2141,7 +2141,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventoryhudplus.pw.toml"
-hash = "ec167c40c324688e0fa677527062f06e8c6c7c10f79f5e6ec7a61b478d44e9b6"
+hash = "5026a134e16302a4e0b52b2dac0cf433329b2f19e7a61197211e0a8fce643fda"
 metafile = true
 
 [[files]]
@@ -2486,7 +2486,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy-fpa.pw.toml"
-hash = "e9e61cbecbe61ffca290a727a543dec15aa848e37e1cafffb6d6c11d7ebb04b7"
+hash = "4a00a835b10d3d28b2f905dd6c754456d95a6a82ccc18137964856f27e6de132"
 metafile = true
 
 [[files]]

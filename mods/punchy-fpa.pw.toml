@@ -11,3 +11,7 @@ hash = "f1a2b308b176672b8514215fecb78a2067e308b3d8b25550460752efafbe0f7ddf559fb0
 [update.modrinth]
 mod-id = "8aoMKplv"
 version = "PutDNdvi"
+
+[option]
+optional = true
+default = true
