@@ -4,8 +4,8 @@
 	"playRollSound": true,
 	"hudArrowColor": 5540067,
 	"hudBackgroundOpacity": 30,
-	"showWhenFull": false,
+	"showWhenFull": true,
 	"showHUDInCreative": false,
-	"showKeybinding": false,
+	"showKeybinding": true,
 	"keybindingLabelPosition": "LEFT"
 }

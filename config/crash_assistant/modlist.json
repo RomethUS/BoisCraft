@@ -202,6 +202,14 @@
     "curseForgeHash": 3155517832,
     "modrinthHash": "e9f247278ef17128fbfcd2b0e248ac02a3de279b"
   },
+  "bclib-21.11.1-fabric.jar": {
+    "jarName": "bclib-21.11.1-fabric.jar",
+    "modId": "bclib",
+    "name": "BCLib",
+    "version": "21.11.1",
+    "curseForgeHash": 2763877025,
+    "modrinthHash": "f462a6827399ac144fa037d05b44cf3a51d63a1e"
+  },
   "bearminimum-fabric-1.21.11-1.0.4.jar": {
     "jarName": "bearminimum-fabric-1.21.11-1.0.4.jar",
     "modId": "bearminimum",
@@ -258,6 +266,14 @@
     "curseForgeHash": 757893848,
     "modrinthHash": "45944722b66c13ab49e771945efd3011a49902f0"
   },
+  "BetterEnd-21.11.1-fabric.jar": {
+    "jarName": "BetterEnd-21.11.1-fabric.jar",
+    "modId": "betterend",
+    "name": "Better End",
+    "version": "21.11.1",
+    "curseForgeHash": 3383395127,
+    "modrinthHash": "fd127af5f9905244b5e012c9ce175d9dc91e6494"
+  },
   "bettermounthud-1.2.6.jar": {
     "jarName": "bettermounthud-1.2.6.jar",
     "modId": "bettermounthud",
@@ -265,6 +281,14 @@
     "version": "1.2.6",
     "curseForgeHash": 3121739203,
     "modrinthHash": "e32f65110c66a0862617dd137531d20a0697f9a9"
+  },
+  "BetterNether-21.11.1-fabric.jar": {
+    "jarName": "BetterNether-21.11.1-fabric.jar",
+    "modId": "betternether",
+    "name": "Better Nether",
+    "version": "21.11.1",
+    "curseForgeHash": 1422818889,
+    "modrinthHash": "0d90658ae8a7dd679e4bebead6ce1f9a3c376dd4"
   },
   "BetterTridents-v21.11.0-mc1.21.11-Fabric.jar": {
     "jarName": "BetterTridents-v21.11.0-mc1.21.11-Fabric.jar",
@@ -337,6 +361,22 @@
     "version": "7.3.2",
     "curseForgeHash": 3245898042,
     "modrinthHash": "824bbaaae302bd3a09ccd65146cb93037db55c81"
+  },
+  "chat_heads-1.2.5-fabric-1.21.11.jar": {
+    "jarName": "chat_heads-1.2.5-fabric-1.21.11.jar",
+    "modId": "chat_heads",
+    "name": "Chat Heads",
+    "version": "1.2.5",
+    "curseForgeHash": 3179961476,
+    "modrinthHash": "776d050c23ea044fcd41cbed378acfea0f4abb07"
+  },
+  "chatanimation-fabric-1.3.0+mc1.21.11.jar": {
+    "jarName": "chatanimation-fabric-1.3.0+mc1.21.11.jar",
+    "modId": "chatanimation",
+    "name": "ChatAnimation",
+    "version": "1.3.0",
+    "curseForgeHash": 641532636,
+    "modrinthHash": "67a96d19e64a73728e2da8a7a314dff3b134f9eb"
   },
   "chefs-delight-1.0.5-fabric-1.21.11.jar": {
     "jarName": "chefs-delight-1.0.5-fabric-1.21.11.jar",
@@ -514,6 +554,14 @@
     "curseForgeHash": 1018837741,
     "modrinthHash": "9019991020c8235f222e818d8a696e442e94e3b5"
   },
+  "CustomWindowTitle-1.21.9+v1.4.3.jar": {
+    "jarName": "CustomWindowTitle-1.21.9+v1.4.3.jar",
+    "modId": "customwindowtitle_multiloader",
+    "name": "Custom Window Title (Multiloader)",
+    "version": "1.4.3",
+    "curseForgeHash": 3720386478,
+    "modrinthHash": "2a34d1ea44ddfe819d157133b862b04d206c7292"
+  },
   "cute-animals-backported-1.0.0.jar": {
     "jarName": "cute-animals-backported-1.0.0.jar",
     "modId": "cute-animals-backported",
@@ -625,6 +673,14 @@
     "version": "1.21.11-0.2.7",
     "curseForgeHash": 131627083,
     "modrinthHash": "9217edd85e90f8e47e41ae13e32a27a7d3923ceb"
+  },
+  "Dynmap-3.8-fabric-1.21.11.jar": {
+    "jarName": "Dynmap-3.8-fabric-1.21.11.jar",
+    "modId": "dynmap",
+    "name": "Dynmap",
+    "version": "3.4.0-beta-1",
+    "curseForgeHash": 3049107961,
+    "modrinthHash": "9ea0215b2ba832856ac8977300e2194eb1c179db"
   },
   "earth-and-water-1.0.3-1.21.11.jar": {
     "jarName": "earth-and-water-1.0.3-1.21.11.jar",
@@ -962,6 +1018,14 @@
     "curseForgeHash": 1875995936,
     "modrinthHash": "41cd2e142e48a8b6604d85764a6466fe5edb70c3"
   },
+  "gigantic-squid-1.2.jar": {
+    "jarName": "gigantic-squid-1.2.jar",
+    "modId": "mr_gigantic_squid",
+    "name": "Gigantic Squid",
+    "version": "1.2",
+    "curseForgeHash": 3286520749,
+    "modrinthHash": "029654a3885165bbdc34d2d9e4887a339ab8a761"
+  },
   "GlitchCore-fabric-1.21.11-21.11.0.4.jar": {
     "jarName": "GlitchCore-fabric-1.21.11-21.11.0.4.jar",
     "modId": "glitchcore",
@@ -969,6 +1033,14 @@
     "version": "21.11.0.4",
     "curseForgeHash": 443611729,
     "modrinthHash": "5c3d6333ff8c50d4b5c16c9185e020d8afcb4988"
+  },
+  "global-datapacks-1.1.1.jar": {
+    "jarName": "global-datapacks-1.1.1.jar",
+    "modId": "global-datapacks",
+    "name": "Global Datapacks",
+    "version": "1.1.1+fabric+1.21.11",
+    "curseForgeHash": 1689880585,
+    "modrinthHash": "7da27dbab7bdd68f59e55c210d35ad872f275b7c"
   },
   "glow-trims-dynamiclights-1.0.0.jar": {
     "jarName": "glow-trims-dynamiclights-1.0.0.jar",
@@ -1218,6 +1290,14 @@
     "curseForgeHash": 2891912712,
     "modrinthHash": "d35f576f35115e406466fa426ec661a82b12e760"
   },
+  "lostrelics-1.21.11-r3.jar": {
+    "jarName": "lostrelics-1.21.11-r3.jar",
+    "modId": "lostrelics",
+    "name": "Lost Relics",
+    "version": "1.21.11-r3",
+    "curseForgeHash": 1280728259,
+    "modrinthHash": "fa837a32bf249cb7d7091d2073ecc0e802c609eb"
+  },
   "lovely_snails-1.2.3+1.21.11.jar": {
     "jarName": "lovely_snails-1.2.3+1.21.11.jar",
     "modId": "lovely_snails",
@@ -1362,6 +1442,14 @@
     "curseForgeHash": 1095529327,
     "modrinthHash": "86515de45fe960bd717deea0954055106e857b81"
   },
+  "mythic_mounts-1.0V.jar": {
+    "jarName": "mythic_mounts-1.0V.jar",
+    "modId": "mr_mythic_mounts",
+    "name": "Mythic Mounts",
+    "version": "1.0V",
+    "curseForgeHash": 1484059847,
+    "modrinthHash": "871991391e4665b88bfecf174396ca6d86bfb13b"
+  },
   "niftycarts-21.11.0.jar": {
     "jarName": "niftycarts-21.11.0.jar",
     "modId": "niftycarts",
@@ -1401,6 +1489,22 @@
     "version": "1.12.4",
     "curseForgeHash": 255368229,
     "modrinthHash": "c3028a1906d7da698f3176c4bb09266a273652d7"
+  },
+  "notenoughcrashes-fabric-4.4.9+1.21.11.jar": {
+    "jarName": "notenoughcrashes-fabric-4.4.9+1.21.11.jar",
+    "modId": "notenoughcrashes",
+    "name": "Not Enough Crashes",
+    "version": "4.4.9+1.21.11",
+    "curseForgeHash": 3727657079,
+    "modrinthHash": "bd074fca3afb865fd21fccfc491056d1fe2c2e82"
+  },
+  "Nullscape_1.21.x_v1.2.17.jar": {
+    "jarName": "Nullscape_1.21.x_v1.2.17.jar",
+    "modId": "nullscape",
+    "name": "Nullscape",
+    "version": "1.2.16",
+    "curseForgeHash": 1233609639,
+    "modrinthHash": "3841ae6220c3257cef8878ca7ed156a49ac5f5ff"
   },
   "Oh-The-Biomes-Weve-Gone-Fabric-4.4.0.jar": {
     "jarName": "Oh-The-Biomes-Weve-Gone-Fabric-4.4.0.jar",
@@ -1722,6 +1826,14 @@
     "curseForgeHash": 2323954102,
     "modrinthHash": "b586d723bde76a22b3661828ee37211a9dd7f1dd"
   },
+  "stellarity-lite-3.0.5.11.jar": {
+    "jarName": "stellarity-lite-3.0.5.11.jar",
+    "modId": "mr_stellarity_lite",
+    "name": "Stellarity ~ Lite",
+    "version": "3.0.5.11",
+    "curseForgeHash": 183665219,
+    "modrinthHash": "7b35a41db72da947f336309df024be4bcb621282"
+  },
   "storagedelight-26.07.01-1.21.11-fabric.jar": {
     "jarName": "storagedelight-26.07.01-1.21.11-fabric.jar",
     "modId": "storagedelight",
@@ -1834,6 +1946,14 @@
     "curseForgeHash": 87541502,
     "modrinthHash": "982e7e763d91765e86e4bf6cb1407ebd2eac0c00"
   },
+  "the-wax-1.3.5.jar": {
+    "jarName": "the-wax-1.3.5.jar",
+    "modId": "the_wax",
+    "name": "The Wax",
+    "version": "1.3.5",
+    "curseForgeHash": 3351953665,
+    "modrinthHash": "c39c0f0abd7fdee3370b0acfcba183dc4b74f264"
+  },
   "TrimResonance-1.21.11-1.2.jar": {
     "jarName": "TrimResonance-1.21.11-1.2.jar",
     "modId": "trimresonance",
@@ -1882,6 +2002,14 @@
     "curseForgeHash": 3217031977,
     "modrinthHash": "9fcb768145af9c0debf47f36193801c04880e377"
   },
+  "VisualKeys-0.0.11-1.21.11.jar": {
+    "jarName": "VisualKeys-0.0.11-1.21.11.jar",
+    "modId": "visualkeys",
+    "name": "VisualKeys",
+    "version": "0.0.11-1.21.11",
+    "curseForgeHash": 192070330,
+    "modrinthHash": "be1ccd6d3fda07ce6c1c928cb83ac697f8c49d4d"
+  },
   "voxy-0.2.16-beta+1.21.11.jar": {
     "jarName": "voxy-0.2.16-beta+1.21.11.jar",
     "modId": "voxy",
@@ -1921,6 +2049,22 @@
     "version": "7.4.2+7450-eb8e82c",
     "curseForgeHash": 2044189263,
     "modrinthHash": "2f5c35ab2d0dffa1be99ed6016132596949e59b3"
+  },
+  "worldweaver-21.11.3.jar": {
+    "jarName": "worldweaver-21.11.3.jar",
+    "modId": "wover",
+    "name": "WorldWeaver",
+    "version": "21.11.3",
+    "curseForgeHash": 817338736,
+    "modrinthHash": "0a0fdea0c39ad32935c916a54a4776dff7e3a490"
+  },
+  "wunderlib-21.11.1-fabric.jar": {
+    "jarName": "wunderlib-21.11.1-fabric.jar",
+    "modId": "wunderlib",
+    "name": "WunderLib",
+    "version": "21.11.1",
+    "curseForgeHash": 3199873634,
+    "modrinthHash": "4437d796d8e0c138843bd4cbf9248aa39e7b1ec4"
   },
   "xaero-custom-waypoint-colors-1.0.6-1.21.11.jar": {
     "jarName": "xaero-custom-waypoint-colors-1.0.6-1.21.11.jar",
