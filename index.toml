@@ -2374,11 +2374,6 @@ hash = "8395011d4f1cac1a378726e7d5e3a766857dd785d304c466e0379d36ca42683f"
 metafile = true
 
 [[files]]
-file = "mods/tsa-decorations.pw.toml"
-hash = "24ae62561acb4c124b96d32f492f57a8537201df92edc961a45fd9b6dd264157"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "9f39a0a1bc18fd4e6f30339b4a78248f372b9b807254b85015ab1c9b6342ff63"
 metafile = true
