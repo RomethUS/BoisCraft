@@ -526,7 +526,7 @@ preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/container_screen_layout.txt"
-hash = "e9815fa03321efe54f6d5fc42e948c8a1256bf02ffd391a5aace72cfa58853aa"
+hash = "695898b767ff889f50ae744284185a21f53430f25a3504fd5f8efe4921acc61e"
 preserve = true
 
 [[files]]
@@ -541,7 +541,7 @@ preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "06bc0e116785e59ac9d2eebc8e66ea2e4d2fa00dabe8c2850f5ea498c624d436"
+hash = "bb9e09d5e04d418bac1143e934c158a012e4550b2db0e797ab8de04916c5149a"
 preserve = true
 
 [[files]]
@@ -551,7 +551,7 @@ preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "bfa00d0aa551bb28cb9d205c0bfd4a407de305d8a3e2ccfec951675aca786d1c"
+hash = "4c184b46aed1f5a05c5f92896253451b48b8bbecb48b03a65b64f89df6c533fa"
 preserve = true
 
 [[files]]
@@ -2735,8 +2735,18 @@ hash = "cea917bcc2bc16aa236acfc75ac78222aca34687ab1e3eeaa9cc802d40d081e4"
 metafile = true
 
 [[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "6ebf3afe4d5a6ec8a826f4fd09790a4d4ab7f7ef97c08223aa324951dbfd08e5"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "35d5c3df88ea471adf2e536257df79453cbe5e264357c2c6ffe7835c17f53feb"
 metafile = true
 
 [[files]]
