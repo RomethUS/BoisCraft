@@ -497,137 +497,110 @@ preserve = true
 [[files]]
 file = "config/fancymenu/assets/boiscraft.png"
 hash = "49640f669021888052d77fef6842b2def1011579db3e7337f5a6c3f38d98c3e7"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/assets/bubencraft.png"
 hash = "c82463fec1eaed2f0120c957e518b73f4e351fd7ff2f37c7b8cd6bf4013b0866"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/assets/ricardo_16x.png"
 hash = "c65948507729563adfd0699a4f159975e6ac7226c4815a2d4cd1bd907535131f"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/assets/ricardo_32x.png"
 hash = "69d080ad55baa85267296e08d32cf898e50d8a96cb5426d63251028436f57e32"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "7d52c55b4c388a074aeeefe37155da7d7b7f9726b378699c5a1b8ae894a177fa"
-preserve = true
+hash = "907e3df89666007d03bebcdb345ee5e3c5ff3b605e3078677a4ad7e6f248bff1"
 
 [[files]]
 file = "config/fancymenu/customization/container_screen_layout.txt"
 hash = "695898b767ff889f50ae744284185a21f53430f25a3504fd5f8efe4921acc61e"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
 hash = "1c2ad7ee5f32f061831b9fd2396b6d9904acd8ae43751cdf41755a0207bc2f40"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/loading_overlay_layout.txt"
 hash = "44621089b35fe568862b6933301618b719f6a41dfb8cea1b0ac9a9de9849b8e4"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "bb9e09d5e04d418bac1143e934c158a012e4550b2db0e797ab8de04916c5149a"
-preserve = true
+hash = "a7896766371919a5889d64355afc4c0acc3d84e58d83ee7b70af6b4f6b34c5b9"
 
 [[files]]
 file = "config/fancymenu/customization/shulker_box_screen_layout.txt"
 hash = "c197c64e1ad2da71531240dc1d55d283e7c30c28a3ae6f79c27fa39a99929a93"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4c184b46aed1f5a05c5f92896253451b48b8bbecb48b03a65b64f89df6c533fa"
-preserve = true
+hash = "c0085c30eeb63bd8b7b2d8fe6649fd42f5869356f5de066f40e8b17bf43cd06a"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/normalized_scroll_screens.json"
 hash = "106f2194c74c5fe1ec3f10b2d838c8fc407fb233d7396d0cc9d56d85e5e974a0"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "0bcea353c57bb32d889871db1652516b692984c96559453593e1683da9db75b4"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/cherry_blossom.json"
 hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/cozy_campfire.json"
 hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark_high_contrast.json"
 hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
 hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/light_high_contrast.json"
 hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/pumpkin_soup.json"
 hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/purple_void.json"
 hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/ui_themes/spooky_season.json"
 hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-preserve = true
 
 [[files]]
 file = "config/fancymenu/video_element_controller_metas.json"
 hash = "1f376bbed85267ecc04098a755b348dee03ae30b612ca81ef89ee65a1c966882"
-preserve = true
 
 [[files]]
 file = "config/farmersdelight-client.json"
@@ -1550,18 +1523,8 @@ hash = "a79a59dbadc1b05b66dbba0e1509dfadfb14ddb09082dd7283e5182fa4c60927"
 metafile = true
 
 [[files]]
-file = "mods/async-locator-refined.pw.toml"
-hash = "b1367b041ae80ad562d58d09ed52eb071cdf5f57832867173298333e2c6bcbcc"
-metafile = true
-
-[[files]]
 file = "mods/async.pw.toml"
 hash = "5736960b961595565bb375c5f840e988caca7d0cae48630582d0fba6ddcdd5fe"
-metafile = true
-
-[[files]]
-file = "mods/asynclogger.pw.toml"
-hash = "f63d789ebe304275848b1230b0642fd2f6e3779ee17befbc2fdb540c28567cd2"
 metafile = true
 
 [[files]]
@@ -1812,6 +1775,11 @@ metafile = true
 [[files]]
 file = "mods/cute-animal-models-backport.pw.toml"
 hash = "8c9ac53bfb4612952b482aef13a712291c741d89f00cc5d4ab1207c03687e8bd"
+metafile = true
+
+[[files]]
+file = "mods/deeper_dark.pw.toml"
+hash = "4b0ea0a55dec13b48c2d93b9b89386ca7dce3db66fdbb1e7172e6b84932e3679"
 metafile = true
 
 [[files]]
@@ -2500,11 +2468,6 @@ hash = "489b14469e99f5e8fbf6ba77c50e67f520ffda0fc2f6d49912820437896f2335"
 metafile = true
 
 [[files]]
-file = "mods/reddens-stone-lantern-reconstructed.pw.toml"
-hash = "e962ad693da6e8c7dcd33046859cd7ee1ddd66c48eaa43e0948d3f2843d3dbd7"
-metafile = true
-
-[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
 metafile = true
@@ -2550,11 +2513,6 @@ hash = "736a3e29034f1f3b753c0d510146666a41d072d11fd29d77d4a8e18f365e937e"
 metafile = true
 
 [[files]]
-file = "mods/slabbed.pw.toml"
-hash = "f36f66b895b18b2373d586dcb6adae9f54bca3f9f2be9491f9f05d884824ceb4"
-metafile = true
-
-[[files]]
 file = "mods/smoke-signals.pw.toml"
 hash = "698da93ca8aecb5448b3f49918bc46334a6604a76f85e77e3d57708688662880"
 metafile = true
@@ -2586,17 +2544,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
-metafile = true
-
-[[files]]
-file = "mods/sorted.pw.toml"
-hash = "6f5e6fc117875d5ab5579206245c68ef4b78145fcb3a42792009a04e61f9b842"
-metafile = true
-
-[[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "a42773c20d79f48763d93e3beaa157925bc9d79c2308d0c7d5ffe691e46a0716"
+hash = "156731218e17a750c4e7caee86a22edf7d6e22196218bbe6fe83601679c51d72"
 metafile = true
 
 [[files]]
