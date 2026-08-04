@@ -2693,11 +2693,6 @@ hash = "f662d6e7fba9ef5663eec98c4c9a4c4cbc8b51890b8868cec0b5f2435af17293"
 metafile = true
 
 [[files]]
-file = "mods/worldthreader.pw.toml"
-hash = "807ad08376d0ebf56ebbf5f39b44c3ce097dab1350330da819a0e5a381e14cb3"
-metafile = true
-
-[[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
 hash = "44eb9e0f4eb8ca808ae73a53a2e05bf6fc5040ac0802d89e66de4c337e877420"
 metafile = true
