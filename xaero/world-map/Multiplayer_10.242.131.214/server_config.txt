@@ -1,0 +1,8 @@
+multiworldType:1
+ignoreServerLevelId:true
+ignoreHeightmaps:false
+playerTeleportCommandFormat:/tp @s {name}
+normalTeleportCommandFormat:/tp @s {x} {y} {z}
+dimensionTeleportCommandFormat:/execute as @s in {d} run tp {x} {y} {z}
+useDefaultMapTeleport:true
+useDefaultPlayerTeleport:true
