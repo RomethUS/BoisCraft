@@ -1,6 +1,4 @@
 confirmedMultiworld:cm$converted
-MWName:mw48,1,29:Map 2
 MWName:cm$converted:Map 3
-MWName:mw$1950565526:Map 1
 caveModeType:1
 dimensionTypeId:minecraft:overworld

@@ -1379,7 +1379,7 @@ preserve = true
 
 [[files]]
 file = "config/xaero/world-map/profiles/default.cfg"
-hash = "e1447cac8e12920c0c77461c359916ffd83fa3926af12386994a9368caa9b2f2"
+hash = "486edf9f9b94c7406cef2b00d4496897b2e5e68276089b799880f2dd7e7fe7f8"
 preserve = true
 
 [[files]]
@@ -2819,7 +2819,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavify.pw.toml"
-hash = "a1ccdfb7c5997ba325c5a717a823b33d05f7c6debbf18954a69da92705772399"
+hash = "32b8bc877210cdd2a1bcc8ef0ffc351167f1f7cf09b94b197ba0462dcaf8b14d"
 metafile = true
 
 [[files]]
@@ -2960,6 +2960,10 @@ file = "resourcepacks/[1.6] Enhanced Boss Bars.zip"
 hash = "91fff02fa7924642011f8aeb45623a3fedcbe7fdfda28079eb59430fb7cc58f9"
 
 [[files]]
+file = "resourcepacks/ricardo-golem-e770.zip"
+hash = "8b6c57ea4df01ac4c7f1dc212aa905ebcae458d2567c688bf8a2336ed166fc9f"
+
+[[files]]
 file = "resourcepacks/visual_armor_trims_4.2.zip"
 hash = "ea1fc0afee40255444770a926352c0acee95c69c342b850ae1b53927ac73d4dd"
 
@@ -2974,10 +2978,6 @@ hash = "eef8569a37cdf41ea7a24db638639cdc2c1acf7a66f3d75549140a6ad8939138"
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8_§6Modded§8.zip"
 hash = "c2c89dbffd3d45e569ecb0c2e21f781c849ddde9a5fc371268dbd5b62460b6b4"
-
-[[files]]
-file = "resourcepacks/§lBetter Beds.zip"
-hash = "83d3686c9e93359ac6bb8ab4dde58724302204f3e97cac6d48d94eb132575892"
 
 [[files]]
 file = "shaderpacks/BSL_v10.1.3.zip"
@@ -5493,26 +5493,6 @@ hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
 
 [[files]]
 file = "xaero/minimap/Multiplayer_10.242.131.214/config.txt"
-hash = "362907af4891928b0674c2af6be09806e9f4ae1c06edd1413724b60cd4ea22c0"
-
-[[files]]
-file = "xaero/minimap/Multiplayer_10.242.132.91/config.txt"
-hash = "83a1f7638c5ee40f8fc0c92ab86d36571291c694133fe8ebd4587220f6c916e2"
-
-[[files]]
-file = "xaero/minimap/Multiplayer_192.168.178.85/config.txt"
-hash = "643479620bfb9ccb1560be66785b443e3d0a65d00315a45deaede9a77a4b6bb2"
-
-[[files]]
-file = "xaero/minimap/Multiplayer_192.168.178.85/dim%0/mw$1950565526_1.txt"
-hash = "663972001ceb7568c1432d87778a2f23c4dacf455917563631ab2671035b1b8e"
-
-[[files]]
-file = "xaero/minimap/Test World/config.txt"
-hash = "362907af4891928b0674c2af6be09806e9f4ae1c06edd1413724b60cd4ea22c0"
-
-[[files]]
-file = "xaero/minimap/world/config.txt"
 hash = "362907af4891928b0674c2af6be09806e9f4ae1c06edd1413724b60cd4ea22c0"
 
 [[files]]
@@ -8513,24 +8493,8 @@ hash = "d94dbece1823bcbad7dfa808ef9a9ead4a0a8b99e6dea0ed579499be1c52c696"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_10.242.131.214/null/dimension_config.txt"
-hash = "3b677b1f1bcf5a264dddb53ec0c406611f000b5b0a9ecc908ba10f8c13c0cf6e"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_10.242.131.214/null/mw$1950565526/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_10.242.131.214/null/mw$1950565526/5_3.zip"
-hash = "bb231abf0fb4f193ecff3a7952bb3643b1cf3a7958f824790fc719f915653ba2"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_10.242.131.214/null/mw$1950565526/cache_1/5_3.xwmc"
-hash = "7359cebb81c33b681667d7e7fcf03ea35fa5745e9357d8fee4f89d9f374dbd36"
-
-[[files]]
-file = "xaero/world-map/Multiplayer_10.242.131.214/null/mw48,1,29/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "aa8a1593809b4d06f46f34f117937d9f398fc9cb497cad3af29137e74a2e883b"
 
 [[files]]
 file = "xaero/world-map/Multiplayer_10.242.131.214/server_config.txt"
-hash = "bfff60e6b97f99cf3293e8ea6a0391107ac03523d8f89837c09752fa9e2a697c"
+hash = "9c8f37f351f94fe6f6ee60a83cfc992e955bf55aaf555892adf63b1dd4263686"

@@ -1,4 +1,4 @@
-multiworldType:1
+multiworldType:0
 ignoreServerLevelId:true
 ignoreHeightmaps:false
 playerTeleportCommandFormat:/tp @s {name}
