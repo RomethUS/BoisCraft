@@ -1,0 +1,13 @@
+name = "Animal Garden - Springhare"
+filename = "animalgarden-springhare-1.0.0-fabric-1.21.11-0.141.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF3qDSk4/versions/a0tQKgsq/animalgarden-springhare-1.0.0-fabric-1.21.11-0.141.3.jar"
+hash-format = "sha512"
+hash = "65939ea1af5e360c5333fa2c7db0e97359de573ae3ba88778f05671f2b2cdb1d7d5cfd7466d0b01c0dbc273e1fa193f0606aef1b83ebb30d4d1d2047d3113fdf"
+
+[update]
+[update.modrinth]
+mod-id = "EF3qDSk4"
+version = "a0tQKgsq"

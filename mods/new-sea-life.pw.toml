@@ -1,0 +1,13 @@
+name = "Sea Life"
+filename = "SeaLife-v21.11.0-mc1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2RxBOoXP/versions/cJH2tlF9/SeaLife-v21.11.0-mc1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "5f24a12a5ab7401658dc5e526928fa37972efd1e80f03ec89c7666e97b149676537a94d2c7526dec5eba26e6eb3b91420faa9de1a4ba9dced58a88e116e8c600"
+
+[update]
+[update.modrinth]
+mod-id = "2RxBOoXP"
+version = "cJH2tlF9"

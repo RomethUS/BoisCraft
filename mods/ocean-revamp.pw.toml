@@ -1,0 +1,13 @@
+name = "Ocean Revamp"
+filename = "ocean-revamp-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2dbrryRr/versions/K5tAzeIL/ocean-revamp-0.0.1.jar"
+hash-format = "sha512"
+hash = "08802c0f913766224641efda812b021b4fe6b6868227da9ffa6f0fd91df408bb52eee0024628397f6202fa4032cf7229de644b7b616f28916d993023e8c78e35"
+
+[update]
+[update.modrinth]
+mod-id = "2dbrryRr"
+version = "K5tAzeIL"

@@ -1468,8 +1468,73 @@ hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-alligator-gar.pw.toml"
+hash = "9ce2aaaef53c8e0766c17e12527e185b3e58ea1756f0e188e9addb3e949e7e47"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-bongo.pw.toml"
+hash = "06ebc796e7049d8db4a2e11efe78407bb3ffb55dedd879315215daa1b69bdc7b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-bull-shark.pw.toml"
+hash = "62b028f61bcd0178cd25b156a83d606c41d75560f29a85ee623ba1984153c21c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-common-raven.pw.toml"
+hash = "73f939d4ffaf1affa89dc23cd78610f96a37b207cf02444914eae12b24c2f51c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-crocodile.pw.toml"
+hash = "22b75d2753a10db9a07b11a03af78ce434abe01a8f562ca76284f2382881fc23"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-culpeo-fox.pw.toml"
+hash = "201e4288e0a128cb7c151dc229c70ee9e3970b444a120d290ea2cec4d3adb265"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-fennec-fox.pw.toml"
+hash = "9479f7604095bd841c3dbf96a38bf8d00d260728631fa62593da1a5c32d32eec"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-harp-seal.pw.toml"
+hash = "7787f9711fdbb67377439e52077cfbfde6d747128c4f5fd4bbeac32df2e7ec6c"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-hippopotamus.pw.toml"
+hash = "e43c783e2f6d75538f7b897f7f3838a31dc9187bdd348744ba2baee25c70ac38"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-lion.pw.toml"
+hash = "af22b6145dcb3b4bc0e666a0324f52dba0f48e28ef197e3b22cf9de229c29b62"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-manatee.pw.toml"
+hash = "6e9549d1a42342c6203b1a3bf5ea8fc9c56edca3cc23a246f157c79246e3f983"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-meerkat.pw.toml"
 hash = "971388d18d06b541dae98736aa6ebf99a24d7f4fe87a3d06552cac61c58aa962"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-mouse.pw.toml"
+hash = "0ca2ed460c0b69ae90d5c294df536261ecb1b0ecade6b97195f402fad664b2ac"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-narwhal.pw.toml"
+hash = "c8e8a1edf406004ee91158cf4249afa2e4f682a948cec5fd7d7ccf13e6d15954"
 metafile = true
 
 [[files]]
@@ -1483,13 +1548,63 @@ hash = "13f75ce1c10bbd1cfdf1a12d21aa39e53b1660b7a74c89a61e764775dbada999"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-prairie-dog.pw.toml"
+hash = "e50ea6020ebe4b91c63d8a4dd4b2e3d8ae82c5a603b6b6832b5782ea3fecbc2b"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-red-panda.pw.toml"
 hash = "4316bc0d12934a4004ddf7c5580101df93babbc5817841881fee8843bf1d745d"
 metafile = true
 
 [[files]]
+file = "mods/animal-garden-red-river-hog.pw.toml"
+hash = "a5bae87ae73344c8cfdbf45a8d37f54866ed013bc81529b07fe81ca28197fe1f"
+metafile = true
+
+[[files]]
 file = "mods/animal-garden-sea-otter.pw.toml"
 hash = "f1a0de30233fc3bd40b4d0b62ea12d2d51bb54a9c57da276fb397f2fe35e7ed1"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-snow-leopard.pw.toml"
+hash = "9d5411eff406c734337be7268aab74e155496f421be2f5d18d4abe738a9b88bd"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-spotted-hyena.pw.toml"
+hash = "added5609dbbaa7a1cce48073fc23ab8dbdc86c0976286ead9e5c0a674e28984"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-springhare.pw.toml"
+hash = "e4451513d16367fda20d26c29367b63e6e19074f5de8ccdabbadd13d051a780b"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-sugar-glider.pw.toml"
+hash = "fb03ea287b3f0533ee6a4610bb14630eecf54f4428d77cb25dec91e824086b8f"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-vicuna.pw.toml"
+hash = "88f6dea9350f13d70f1f4cce7094c79300f00403230029f3829cbae72d5de0b1"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-western-gorilla.pw.toml"
+hash = "1d1fe075ce2c2781f076d6ce94137d4be5f7332fec2f5dbca977a7568e016b59"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-white-rhinoceros.pw.toml"
+hash = "6aa301a137503714f80a3829fac113210b986d6a2ba60af9db19baca20d067b1"
+metafile = true
+
+[[files]]
+file = "mods/animal-garden-yellow-mongoose.pw.toml"
+hash = "550789bd6a250736c12192f313560627202956f16abf79aefd25322c22836e7e"
 metafile = true
 
 [[files]]
@@ -1505,6 +1620,21 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+metafile = true
+
+[[files]]
+file = "mods/aqua-verse.pw.toml"
+hash = "1b2ce913af82e687421cf3d84eb97f4a08d6c6ca293173e60f540b3ddd5437d3"
+metafile = true
+
+[[files]]
+file = "mods/aquarius-libs.pw.toml"
+hash = "27f769304e389ce17bec0d26a96d679a2d1967b58ff3e605d70823e8b1d2de5c"
+metafile = true
+
+[[files]]
+file = "mods/aquatic-torches-renewed.pw.toml"
+hash = "276441fe894341da95d96e1fd11c97d83f1bcc69e7eb5d9037fff852e2851849"
 metafile = true
 
 [[files]]
@@ -1770,6 +1900,11 @@ metafile = true
 [[files]]
 file = "mods/cute-animal-models-backport.pw.toml"
 hash = "8c9ac53bfb4612952b482aef13a712291c741d89f00cc5d4ab1207c03687e8bd"
+metafile = true
+
+[[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "ee0ea17b41dc1ca7429293499ed89197f47b66394bc6799eb97269cee99b3b79"
 metafile = true
 
 [[files]]
@@ -2328,6 +2463,11 @@ hash = "93e5023b9b45c297a69ee769941b4c6a7f65eeb3f2baa569ad52f3d5aa8de398"
 metafile = true
 
 [[files]]
+file = "mods/new-sea-life.pw.toml"
+hash = "d1584439df03414fe8337cf69944465d8f83a699a7bb6f6514f362b88e20cfcf"
+metafile = true
+
+[[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "a4eb56307d2a3270c66f0db618deb36eef836a77c92efa7b9c8c0b57839b320b"
 metafile = true
@@ -2355,6 +2495,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "736067d015533807f800f5635900431a5715dec753c7665fa57766c181f145b6"
+metafile = true
+
+[[files]]
+file = "mods/ocean-revamp.pw.toml"
+hash = "d31e7342f92b4b5618181bd37a452d0b30a6e72af5924397625c42ae937d2e5a"
 metafile = true
 
 [[files]]
@@ -2475,6 +2620,11 @@ metafile = true
 [[files]]
 file = "mods/respect-my-trims.pw.toml"
 hash = "3ec265ba13d2bb986dd0188e2000db9d419b29c0cc511e9fd146cd781b773f79"
+metafile = true
+
+[[files]]
+file = "mods/sails-and-airships.pw.toml"
+hash = "18de97d241cb6ed7cafa8a8e088612b04d7b1fe70cf76016a0ede63749c22f27"
 metafile = true
 
 [[files]]
@@ -2670,6 +2820,11 @@ metafile = true
 [[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
+metafile = true
+
+[[files]]
+file = "mods/wavify.pw.toml"
+hash = "a1ccdfb7c5997ba325c5a717a823b33d05f7c6debbf18954a69da92705772399"
 metafile = true
 
 [[files]]

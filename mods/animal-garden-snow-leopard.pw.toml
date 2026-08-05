@@ -1,0 +1,13 @@
+name = "Animal Garden - Snow Leopard"
+filename = "animalgarden-snowleopard-1.0.0-fabric-1.21.11-0.141.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dC08F5P8/versions/7yzxLk1p/animalgarden-snowleopard-1.0.0-fabric-1.21.11-0.141.3.jar"
+hash-format = "sha512"
+hash = "5320fdaf858391428c205aceee6919201588949d93f58a610d5d4114da44694295a165a4b6a2e63483fd678884c8c654046e6709eef995cc3795cf33e14edd22"
+
+[update]
+[update.modrinth]
+mod-id = "dC08F5P8"
+version = "7yzxLk1p"

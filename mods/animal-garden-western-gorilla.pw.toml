@@ -1,0 +1,13 @@
+name = "Animal Garden - Western Gorilla"
+filename = "animalgarden-westerngorilla-1.0.0-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OezYkPKQ/versions/OcNJ45ih/animalgarden-westerngorilla-1.0.0-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "264661cbe786e82e50d20d4f5548223b8ecc02cd831b112851d29bfa5f597ca04b4dbd1036ea1e8fd411a40f84e77de72d6c950b3db2b08746c37c6e9058dd10"
+
+[update]
+[update.modrinth]
+mod-id = "OezYkPKQ"
+version = "OcNJ45ih"

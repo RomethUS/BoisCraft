@@ -1,0 +1,13 @@
+name = "Animal Garden - Bull Shark"
+filename = "animalgarden-bullshark-1.1.1-fabric-1.21.11-0.139.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/d83mmflQ/versions/MfztXQNT/animalgarden-bullshark-1.1.1-fabric-1.21.11-0.139.5.jar"
+hash-format = "sha512"
+hash = "c0898d0a4ac9aea9a1adf235ca3deeca3bcfd3d9006d41b51f2b5694a18a7ccfa5f4297a2039e5f88dfd7231e5ba13adbae80f0a7a96405bc4cbfc8ebcebe957"
+
+[update]
+[update.modrinth]
+mod-id = "d83mmflQ"
+version = "MfztXQNT"

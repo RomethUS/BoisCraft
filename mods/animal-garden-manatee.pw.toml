@@ -1,0 +1,13 @@
+name = "Animal Garden - Manatee"
+filename = "animalgarden_manatee-1.0.0-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XzTcXQrj/versions/iMF2XqLX/animalgarden_manatee-1.0.0-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "3d903a8df664415702309fe33418fc9c046da3fad5a6da7fe9869db50715f72af78118cd6cb89fafb8a1e681e8b907ce79362811739ee7fe0366271f9607df14"
+
+[update]
+[update.modrinth]
+mod-id = "XzTcXQrj"
+version = "iMF2XqLX"

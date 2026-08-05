@@ -1,0 +1,13 @@
+name = "Animal Garden - Prairie Dog"
+filename = "animalgarden-prairiedog-1.0.1-fabric-1.21.11-0.140.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdm5Eivp/versions/KaE3FXDG/animalgarden-prairiedog-1.0.1-fabric-1.21.11-0.140.2.jar"
+hash-format = "sha512"
+hash = "4bc562709c3a8a5477e10fad7201ce0732abf3c88c5232e6f0fd16e8f7552f928756cd0183402a9d43e4bba63b572ae71714445a91bb0906b29896cda624770d"
+
+[update]
+[update.modrinth]
+mod-id = "vdm5Eivp"
+version = "KaE3FXDG"

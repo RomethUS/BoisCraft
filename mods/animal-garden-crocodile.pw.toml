@@ -1,0 +1,13 @@
+name = "Animal Garden - Crocodile"
+filename = "animalgarden-crocodile-1.0.0-fabric-1.21.11-0.141.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gg7RMAJ0/versions/i0wtFyQv/animalgarden-crocodile-1.0.0-fabric-1.21.11-0.141.3.jar"
+hash-format = "sha512"
+hash = "f0e12f8ebb11a990775ff67726c169a4d2ffe389f05b40d28b1e648d18dd52d6469802c335d80d95ad7208d52ade2fb3e08a242ceee1bdaa641a738759763466"
+
+[update]
+[update.modrinth]
+mod-id = "Gg7RMAJ0"
+version = "i0wtFyQv"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Bongo"
+filename = "animalgarden-bongo-1.0.1-fabric-1.21.11-0.141.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jLcflzN8/versions/Kl5Dfw3T/animalgarden-bongo-1.0.1-fabric-1.21.11-0.141.4.jar"
+hash-format = "sha512"
+hash = "c86701feb32c2870686402402dfce1198854a5831c1ff4089cb363bc76f5314cc09aa3730112fbc8b7f09c3817498dbe4d6abd52329826734ece4a37beff5dc6"
+
+[update]
+[update.modrinth]
+mod-id = "jLcflzN8"
+version = "Kl5Dfw3T"

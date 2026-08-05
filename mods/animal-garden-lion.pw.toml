@@ -1,0 +1,13 @@
+name = "Animal Garden - Lion"
+filename = "animalgarden-lion-1.0.0-fabric-1.21.11-0.141.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dA4X7lKe/versions/iaAB8EN1/animalgarden-lion-1.0.0-fabric-1.21.11-0.141.2.jar"
+hash-format = "sha512"
+hash = "e9056d457212ce28d40f9eebaf70e9834be1caf31c21dbb15b0e4197cfde4cc338f070bc495329b818ab96f32e2ff8a75c2b0256b54cd109c0721b0be7f883ab"
+
+[update]
+[update.modrinth]
+mod-id = "dA4X7lKe"
+version = "iaAB8EN1"

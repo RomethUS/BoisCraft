@@ -1,0 +1,13 @@
+name = "Animal Garden - Spotted Hyena"
+filename = "animalgarden-spottedhyena-1.1.0-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xFPZRPlU/versions/VpmWyrJe/animalgarden-spottedhyena-1.1.0-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "5d0845c3a785082c264184a8f4aafdb9c5537367335ea79a6f5f80c6aeff9178ef0fa239fa1b1d83ee8b619b7eaaa40b2c739bbc065f5f09e07d21e0963c034d"
+
+[update]
+[update.modrinth]
+mod-id = "xFPZRPlU"
+version = "VpmWyrJe"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Fennec Fox"
+filename = "animalgarden_fennecfox-1.0.1-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BRO0Qo3Y/versions/1WiwWALW/animalgarden_fennecfox-1.0.1-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "ad9c523cd92fa60838051c8a05d062ee79df74ebbdf23cde89c5d8741731898e8fcd23ea7f5a111cce6575cbbbaf857ef23bf621bc3a3082601778b37fc242fe"
+
+[update]
+[update.modrinth]
+mod-id = "BRO0Qo3Y"
+version = "1WiwWALW"

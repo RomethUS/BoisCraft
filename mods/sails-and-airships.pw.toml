@@ -1,0 +1,13 @@
+name = "Sails and Airships"
+filename = "sailsandairships-1.0.4+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2NMqEAG/versions/tCT8NDkt/sailsandairships-1.0.4%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "5717febdbc29bbc4ca697d0a8336cc30e298a0e56603eab77875fa3e3762f49b876789899cccab2c9903d87c9b1eb99cdcc6b61e81f7e7bd65cb66dd24301be2"
+
+[update]
+[update.modrinth]
+mod-id = "i2NMqEAG"
+version = "tCT8NDkt"

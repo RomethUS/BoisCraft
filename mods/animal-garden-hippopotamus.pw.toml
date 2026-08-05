@@ -1,0 +1,13 @@
+name = "Animal Garden - Hippopotamus"
+filename = "animalgarden-hippopotamus-1.0.0-fabric-1.21.11-0.141.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PbzaJXgX/versions/skkk19ah/animalgarden-hippopotamus-1.0.0-fabric-1.21.11-0.141.2.jar"
+hash-format = "sha512"
+hash = "b6f54f3ad4291265d5ee455795794f6e63f0a9ccf913b584c5df0b789188299e79f3ae910e4787e14972c13426d4f1c6b88c3ae5a9ffec24e8f82f33a5e209ea"
+
+[update]
+[update.modrinth]
+mod-id = "PbzaJXgX"
+version = "skkk19ah"

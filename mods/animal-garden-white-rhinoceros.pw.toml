@@ -1,0 +1,13 @@
+name = "Animal Garden - White Rhinoceros"
+filename = "animalgarden-whiterhinoceros-1.0.0-fabric-1.21.11-0.140.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTMmsfd4/versions/DKRB2odc/animalgarden-whiterhinoceros-1.0.0-fabric-1.21.11-0.140.0.jar"
+hash-format = "sha512"
+hash = "8ed584880dd6b6f883d61bb5b0534b07d8d18ca0155ca043c173b6b84fd0159a7b05f1e4eeb1913b3fa76c1887952eec204eb8e0564f4039c2bf0feca907f899"
+
+[update]
+[update.modrinth]
+mod-id = "LTMmsfd4"
+version = "DKRB2odc"

@@ -1,0 +1,13 @@
+name = "Animal Garden - Vicuna"
+filename = "animalgarden-vicuna-1.0.0-fabric-1.21.11-0.141.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WpQiC9rN/versions/fOubxqO8/animalgarden-vicuna-1.0.0-fabric-1.21.11-0.141.3.jar"
+hash-format = "sha512"
+hash = "6f176e1908ad3e6a5e6a58e0ae33f5381db439c1865386b053a9049076eea0313deb9a9ba80ec1d52d4b713e0bf01018e5d8a10ea7c0dae073e33ca7677d9638"
+
+[update]
+[update.modrinth]
+mod-id = "WpQiC9rN"
+version = "fOubxqO8"
