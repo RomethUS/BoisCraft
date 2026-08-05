@@ -1623,11 +1623,6 @@ hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
-file = "mods/aqua-verse.pw.toml"
-hash = "1b2ce913af82e687421cf3d84eb97f4a08d6c6ca293173e60f540b3ddd5437d3"
-metafile = true
-
-[[files]]
 file = "mods/aquarius-libs.pw.toml"
 hash = "27f769304e389ce17bec0d26a96d679a2d1967b58ff3e605d70823e8b1d2de5c"
 metafile = true
