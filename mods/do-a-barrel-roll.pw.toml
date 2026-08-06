@@ -15,3 +15,4 @@ version = "QyuEXDMC"
 [option]
 optional = true
 default = true
+description = "Do A Barrel Roll der GOAT."

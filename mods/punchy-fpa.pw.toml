@@ -14,4 +14,5 @@ version = "PutDNdvi"
 
 [option]
 optional = true
-default = true
+default = false
+description = "First Person Animations, manchmal etwas goofy."

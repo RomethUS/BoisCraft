@@ -15,3 +15,4 @@ version = "mZy4fW0C"
 [option]
 optional = true
 default = false
+description = "Customizeable Inventory HUD. Wollt ihr wsh eher nicht."
