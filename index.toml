@@ -2208,11 +2208,6 @@ hash = "845107052e92be3225e8d2e939552b090119c86ccdf6b12b9ec44e993054e742"
 metafile = true
 
 [[files]]
-file = "mods/hooking-hookshot.pw.toml"
-hash = "8e99996674ba0807ba613970cadabc386e6cea648fc97ba1bd0b50da4431e910"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "e651ba1c127d07ba7e0649ce3c14e061b43a85d20ad194cb6b6f09021859e685"
 metafile = true
@@ -2435,11 +2430,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
-metafile = true
-
-[[files]]
-file = "mods/mounts-of-mayhem-plus.pw.toml"
-hash = "47d6c603ee858a594272db4428df8ab7add20fa6a2a54323347c627b898c33c6"
 metafile = true
 
 [[files]]
