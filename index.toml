@@ -560,6 +560,11 @@ hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-performance.pw.toml"
+hash = "0402f4978375bdba96939a68a8d96d5714e3fbbea1f41264220fdf23f87d461a"
+metafile = true
+
+[[files]]
 file = "mods/earth-and-water.pw.toml"
 hash = "98dff76d829c3b4a5a7a388df6fa3311065f1c4f2eae150f09757f140dd6a915"
 metafile = true
@@ -602,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
+metafile = true
+
+[[files]]
+file = "mods/entity-stack-rendering.pw.toml"
+hash = "ad9635118299267c86bf4a795e6eac36e3a5e1d55a3d078c3d36633f3426371a"
 metafile = true
 
 [[files]]
@@ -1090,6 +1100,11 @@ hash = "6bcdbbdef804f786b3659dbc949cf99afd1cde8b0f49b758d54a6cfedd3f2c98"
 metafile = true
 
 [[files]]
+file = "mods/optimizemod.pw.toml"
+hash = "84f0419d54c72824c24ca9fe9b98efad86af6b135449673764c94f593f209b28"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
 metafile = true
@@ -1230,6 +1245,11 @@ hash = "698da93ca8aecb5448b3f49918bc46334a6604a76f85e77e3d57708688662880"
 metafile = true
 
 [[files]]
+file = "mods/smooth-join.pw.toml"
+hash = "bc5d5a2daa4cb1fe36d8cda111dc367d13a2aef39f7146409bfb045f44d3b669"
+metafile = true
+
+[[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "f7847f258453e5ebe9d268a8695f1166790e493d814f25a55584d97042b3df77"
 metafile = true
@@ -1302,6 +1322,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "e053f491047089bdce5b4479587f52ad190dc768f1ddf29dcc7541953b6a5a24"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "8e1fe44c0274ded23c3d880b64340201f7009dd2f1b0327d4e66c4d95716e632"
 metafile = true
 
 [[files]]
