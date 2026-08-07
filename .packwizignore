@@ -1,0 +1,12 @@
+config/*
+!config/itemscroller.json
+
+resourcepacks/*
+
+shaderpacks/*
+
+syncmatics/*
+
+xaero/*
+
+options.txt
