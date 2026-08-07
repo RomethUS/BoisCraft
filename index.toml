@@ -1100,11 +1100,6 @@ hash = "6bcdbbdef804f786b3659dbc949cf99afd1cde8b0f49b758d54a6cfedd3f2c98"
 metafile = true
 
 [[files]]
-file = "mods/optimizemod.pw.toml"
-hash = "84f0419d54c72824c24ca9fe9b98efad86af6b135449673764c94f593f209b28"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
 metafile = true
