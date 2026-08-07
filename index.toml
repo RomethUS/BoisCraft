@@ -6,7 +6,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/itemscroller.json"
-hash = "eddea8dad2c86374e3d41847050b15209589acb9f890473df4262cc1151d5374"
+hash = "afd0d929ce7b2d10b11ca9665ca3f21fe1a6d624dfc27b2c36b7a714ec341999"
 preserve = true
 
 [[files]]
