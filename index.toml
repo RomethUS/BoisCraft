@@ -970,11 +970,6 @@ hash = "876ca1992ac09a3ca33b30c6638181edea0472426892289d2a321bdebacc1cbd"
 metafile = true
 
 [[files]]
-file = "mods/memguard.pw.toml"
-hash = "b2361b78e6c39fba437bba33f0d4c0db3ff49dad10b2a9f89ae152383b6386bd"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "1a8d8865ba726baf4f953f30737257d78a7c3529795f0b76fa67b90ab5038555"
 metafile = true
@@ -1392,6 +1387,11 @@ metafile = true
 [[files]]
 file = "mods/visual-jukebox.pw.toml"
 hash = "cea917bcc2bc16aa236acfc75ac78222aca34687ab1e3eeaa9cc802d40d081e4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
