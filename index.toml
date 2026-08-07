@@ -5,11 +5,6 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/itemscroller.json"
-hash = "afd0d929ce7b2d10b11ca9665ca3f21fe1a6d624dfc27b2c36b7a714ec341999"
-preserve = true
-
-[[files]]
 file = "mods/26.1-backport.pw.toml"
 hash = "ab87352fcf801ec8eddf79c59e99cb6e8c6168eb604a80ce4bcb3a3ae1ffee3a"
 metafile = true
