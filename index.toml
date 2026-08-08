@@ -1235,11 +1235,6 @@ hash = "698da93ca8aecb5448b3f49918bc46334a6604a76f85e77e3d57708688662880"
 metafile = true
 
 [[files]]
-file = "mods/smooth-join.pw.toml"
-hash = "bc5d5a2daa4cb1fe36d8cda111dc367d13a2aef39f7146409bfb045f44d3b669"
-metafile = true
-
-[[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "f7847f258453e5ebe9d268a8695f1166790e493d814f25a55584d97042b3df77"
 metafile = true
