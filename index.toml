@@ -605,11 +605,6 @@ hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
 
 [[files]]
-file = "mods/entity-stack-rendering.pw.toml"
-hash = "ad9635118299267c86bf4a795e6eac36e3a5e1d55a3d078c3d36633f3426371a"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a4c2d3de068fd3c2c9da27791bab8390ca00a3db6fd31f79eb89c1e79dc7e7b8"
 metafile = true
