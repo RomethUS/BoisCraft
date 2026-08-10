@@ -1,0 +1,13 @@
+name = "Wool Stairs & Slabs"
+filename = "woolshapes-0.1.0+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LlZCx0v3/versions/QQW5Ayd6/woolshapes-0.1.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "094050f056bcb6e270b78d1d50e37709220fc23c371827b9d8a2a9845a95d514dc849c954ab9f5eacdb7452ee601c7fa68a5eee94de261ce5db65559d88320c6"
+
+[update]
+[update.modrinth]
+mod-id = "LlZCx0v3"
+version = "QQW5Ayd6"

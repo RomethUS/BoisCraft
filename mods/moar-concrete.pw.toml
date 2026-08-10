@@ -1,0 +1,13 @@
+name = "Moar Concrete"
+filename = "moarconcrete-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lXDzrLAm/versions/Y5zVlNji/moarconcrete-1.6.0.jar"
+hash-format = "sha512"
+hash = "43eb3b2c6290e11268bc6aab0cb574c39f010b6a170171b42d5300b6893a6566f696de69a677a8ffecc74c271eaab38dd98f24804c4822ea9fdb6c1903bdfece"
+
+[update]
+[update.modrinth]
+mod-id = "lXDzrLAm"
+version = "Y5zVlNji"

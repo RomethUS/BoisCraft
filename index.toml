@@ -990,6 +990,11 @@ hash = "013bc1d1b6beb990e412e1c88a83c832e4f75c94c3c2e6dd6788a87835ba425d"
 metafile = true
 
 [[files]]
+file = "mods/moar-concrete.pw.toml"
+hash = "ae119f13a4b3745fe977a36fc31871c8473d97fd7855e4f078f3895d0dfef25d"
+metafile = true
+
+[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
 metafile = true
@@ -1422,6 +1427,11 @@ metafile = true
 [[files]]
 file = "mods/whisper_of_ether.pw.toml"
 hash = "2c27409530565cc42ede57f1a6ae96b7c58c45d3ba66eb1f0c6f6acf08d86bbb"
+metafile = true
+
+[[files]]
+file = "mods/wool-stairs-slabs.pw.toml"
+hash = "733d875cd71c93c05572444b7c9c36f933a87e1c4152554c5f8f022d60dd5ff7"
 metafile = true
 
 [[files]]
