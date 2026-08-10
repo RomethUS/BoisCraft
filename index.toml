@@ -1285,6 +1285,11 @@ hash = "2646b9bf85b3c36abb1e96308218894bc20cfae7ce3c56126ec7c37dc1ff666a"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy-sync.pw.toml"
+hash = "da5edd4b82e0245c1d59934144c524365f8dd55e3a4b9a99704b2f8bd2a9da4f"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "0e12b4e6167f5e98e8b7e934bfbd16897461e008b6cd8e1b762c216f181812f9"
 metafile = true
