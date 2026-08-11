@@ -475,6 +475,11 @@ hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "0864206f0e936f9ae32ada59a90284d6b9262434c99d8c32a1fafe2b501de0cf"
 metafile = true
@@ -1180,6 +1185,11 @@ hash = "489b14469e99f5e8fbf6ba77c50e67f520ffda0fc2f6d49912820437896f2335"
 metafile = true
 
 [[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
 metafile = true
@@ -1410,6 +1420,11 @@ hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "07a2e15edece452c1560554c112c2a3c76a3c60c2e49a2e84d060501f36e329f"
+metafile = true
+
+[[files]]
 file = "mods/voxy.pw.toml"
 hash = "1b15aa249e728fe7af88899bfa08ca4a7a629b0f440750138f74a9b36c607292"
 metafile = true
@@ -1477,6 +1492,11 @@ metafile = true
 [[files]]
 file = "mods/yori3os-grappling-hooks.pw.toml"
 hash = "1b78e080b2f89b8000873ec74a30df57ec2f2acfc624124224def74d2d8abd5d"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "7791056371acfa8797bc4f230f2cb866728514ef98c351bb898d183e426abbbe"
 metafile = true
 
 [[files]]
