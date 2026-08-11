@@ -5,6 +5,11 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "datapacks/spirit-flight.pw.toml"
+hash = "4cff6833f71a8e7bd8986f29ca54b0faf42bd71b37c223f28c780ad430d757a0"
+metafile = true
+
+[[files]]
 file = "mods/26.1-backport.pw.toml"
 hash = "ab87352fcf801ec8eddf79c59e99cb6e8c6168eb604a80ce4bcb3a3ae1ffee3a"
 metafile = true
@@ -455,6 +460,11 @@ hash = "3434867ea9539550f69aa750b3560340482dd035774dc73de58499632d4239e9"
 metafile = true
 
 [[files]]
+file = "mods/craftablechainmailarmor.pw.toml"
+hash = "022542eadfa8ca60778292e8fdaa16359cffb05601a28addba74fcba12172209"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "042f06ea0a472f05499196dc8447be528540e996b4dd1d8cefdb96ed85e4cdc0"
 metafile = true
@@ -597,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/enchanted-bookshelves.pw.toml"
 hash = "f272431915ac416bee9d533a9489eb59078038e3909458678cccde0e3c5ac3da"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-utilities.pw.toml"
+hash = "ab47199a98582e64c0d9c14e3dfcac407fb278b2b1ab7f7f42ce54af3bfd57e1"
 metafile = true
 
 [[files]]

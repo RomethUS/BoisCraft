@@ -1,0 +1,13 @@
+name = "Spirit Flight (Faster Happy Ghast)"
+filename = "spirit-flight_0.1.1+mc1.21.11.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7rkoj85/versions/xHVTNKNj/spirit-flight_0.1.1%2Bmc1.21.11.zip"
+hash-format = "sha512"
+hash = "ac7dea195cffbf35dc52e6adb4c55cc76f453766e2eb017ace8d92074027a85035091b9fe500960d1e9b18182b063bac4b27ccb44c9f47af2fcbbebc6d728154"
+
+[update]
+[update.modrinth]
+mod-id = "O7rkoj85"
+version = "xHVTNKNj"
