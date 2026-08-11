@@ -615,6 +615,11 @@ hash = "302899d82ac24b9a25aa45d5791ef8dacb57ca97f7dafbe22bfbccca43549149"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "1d6210f277792bf2fa3d1bd528f8a0428774816201bde267392a2d3c4399271b"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
