@@ -505,11 +505,6 @@ hash = "8c9ac53bfb4612952b482aef13a712291c741d89f00cc5d4ab1207c03687e8bd"
 metafile = true
 
 [[files]]
-file = "mods/deeper-oceans.pw.toml"
-hash = "ee0ea17b41dc1ca7429293499ed89197f47b66394bc6799eb97269cee99b3b79"
-metafile = true
-
-[[files]]
 file = "mods/deimos.pw.toml"
 hash = "23bd082579e41cf43a1e3455d2b5ae291004eec2d82369834a467ffaebb37ed9"
 metafile = true
