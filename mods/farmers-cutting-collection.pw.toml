@@ -1,0 +1,13 @@
+name = "Farmer's Cutting Collection"
+filename = "farmers-cutting-collection-1.21.11-5.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bApGjY4X/versions/YS6grPWF/farmers-cutting-collection-1.21.11-5.0-fabric.jar"
+hash-format = "sha512"
+hash = "7e61f34c45e6f678b3feca99700c9eded6eb086bc96de7175066364ca5b3a4192574e4669ac08e104a27ca543724d020a627c93144197d5a579281c45249e7b8"
+
+[update]
+[update.modrinth]
+mod-id = "bApGjY4X"
+version = "YS6grPWF"

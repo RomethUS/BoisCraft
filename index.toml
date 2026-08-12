@@ -695,6 +695,11 @@ hash = "245acc7322d9a44be6856199885717d3fb3c8fa9f906eb02c7936ed703dde35e"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-collection.pw.toml"
+hash = "58d03225ff29c8e31cc01194b71701a257642a727488648d454e452ccc48b2a0"
+metafile = true
+
+[[files]]
 file = "mods/farmers-cutting-oh-the-biomes-weve-gone.pw.toml"
 hash = "650ed13d954682feaa62fb70f9db6a4cfa1d2fc52bcccf6952b1c9fdd2442196"
 metafile = true
@@ -1257,6 +1262,11 @@ metafile = true
 [[files]]
 file = "mods/silkworms-moths.pw.toml"
 hash = "736a3e29034f1f3b753c0d510146666a41d072d11fd29d77d4a8e18f365e937e"
+metafile = true
+
+[[files]]
+file = "mods/smart-copper-golem.pw.toml"
+hash = "e754d6cbe3b9ffa9b960f61c589d029925e2afbda67258af8e05e4f3470b7dc3"
 metafile = true
 
 [[files]]
