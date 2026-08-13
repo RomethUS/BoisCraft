@@ -1135,6 +1135,11 @@ hash = "53339ae7ef3cb1510a721153a143954bcc380d4ec195b2fd9349121c9661579b"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3750aa5e0f26b0a27ccd97ca1bdd38d05607789d24320e4837a8c128428eb070"
+metafile = true
+
+[[files]]
 file = "mods/petprotect.pw.toml"
 hash = "a8644edf6d1af302b6830389d7ade1ba73e1695c35eb5dd13115ea0241d32c58"
 metafile = true
