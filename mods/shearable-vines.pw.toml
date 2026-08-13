@@ -1,0 +1,13 @@
+name = "Shearable Vines"
+filename = "shearablevines-1.5.0+1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5lDyJvU/versions/bFh4PgzO/shearablevines-1.5.0%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "825962d6000f9e3f54fa37aeb2c0ed4f622a143be9f41a6a2d1f1155054d87d23f8e5151df41160a2c42bab1e417e05f310164a5b6f6726624ac3937157c86e5"
+
+[update]
+[update.modrinth]
+mod-id = "b5lDyJvU"
+version = "bFh4PgzO"
