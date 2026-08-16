@@ -985,11 +985,6 @@ hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
 metafile = true
 
 [[files]]
-file = "mods/mapsyncer-for-xaeroworldmap.pw.toml"
-hash = "1616970b3593908d772ac72a76a4afecd48ac3bd53f0b304f6884cd4b70ce6d2"
-metafile = true
-
-[[files]]
 file = "mods/medieval-buildings.pw.toml"
 hash = "8b8a839bc447eb7d0a01ecb480af92693fe9396929ec29f1beda5e0cd5011c4d"
 metafile = true
