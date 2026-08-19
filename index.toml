@@ -995,11 +995,6 @@ hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
 metafile = true
 
 [[files]]
-file = "mods/material-hud.pw.toml"
-hash = "02b8e4fbc8f1bd3936e24cde6c96df5130c36605bdf5470537c3c3d1a17e11fa"
-metafile = true
-
-[[files]]
 file = "mods/medieval-buildings.pw.toml"
 hash = "8b8a839bc447eb7d0a01ecb480af92693fe9396929ec29f1beda5e0cd5011c4d"
 metafile = true
