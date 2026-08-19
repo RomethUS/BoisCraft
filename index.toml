@@ -1015,11 +1015,6 @@ hash = "1a8d8865ba726baf4f953f30737257d78a7c3529795f0b76fa67b90ab5038555"
 metafile = true
 
 [[files]]
-file = "mods/minecart-visualizer.pw.toml"
-hash = "c9d4398e068960364f334f650952a99ff35943c5b249fb17debea9397f111261"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "dae9980abe4fa486290dba8800105baf99c1ca114329bc51c8e2643948960681"
 metafile = true
