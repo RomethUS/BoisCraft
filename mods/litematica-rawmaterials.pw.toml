@@ -1,0 +1,13 @@
+name = "Litematica RawMaterials"
+filename = "rawmats-fabric-1.21.11-0.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OWsxlyPe/versions/ao1SsA3s/rawmats-fabric-1.21.11-0.4.1.jar"
+hash-format = "sha512"
+hash = "e229bdc5b53002fd66e87b81414b1d68eb633ced725b71d9797f3e2c2f7500830785bbe34e3f24accfd536673dda7c88abefa1825281a8fb7fbb3d72222eebd1"
+
+[update]
+[update.modrinth]
+mod-id = "OWsxlyPe"
+version = "ao1SsA3s"

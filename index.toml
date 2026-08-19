@@ -940,8 +940,18 @@ hash = "b3608f7587e0bb972daedf14779b2e9d95fa029aa644ddd9d1b50264c922d0bb"
 metafile = true
 
 [[files]]
+file = "mods/litematica-enderchest-materials.pw.toml"
+hash = "ba04fe68872ba235116130adc55b89c630be74add703db08dc6064b7ba8bf11e"
+metafile = true
+
+[[files]]
 file = "mods/litematica-material-filter.pw.toml"
 hash = "5af0d64105566a514348a60a10cefa3f183da9831b499750d3e6418317f0e3eb"
+metafile = true
+
+[[files]]
+file = "mods/litematica-rawmaterials.pw.toml"
+hash = "951ee3b4a34764c91460d38cc006001b301418bedade568e3a363b732180e878"
 metafile = true
 
 [[files]]
@@ -982,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
+metafile = true
+
+[[files]]
+file = "mods/material-hud.pw.toml"
+hash = "02b8e4fbc8f1bd3936e24cde6c96df5130c36605bdf5470537c3c3d1a17e11fa"
 metafile = true
 
 [[files]]
@@ -1395,13 +1410,8 @@ hash = "888f78bae56f5f1ddafa5d720358d8cbc248b46fba2931e55fb59901cadafcb6"
 metafile = true
 
 [[files]]
-file = "mods/syncmatica.pw.toml"
-hash = "c5e8231e564f48457f167525df480d2beda1d6d98a0167e21e3a779f719ececc"
-metafile = true
-
-[[files]]
-file = "mods/takeitout.pw.toml"
-hash = "b66526a3f99a78fdff90c9db0ccffb3ddc396e408b8e198c456982097c981f13"
+file = "mods/syncmatica-revolution.pw.toml"
+hash = "578bdb460f41a6cbd74c8ec5ee47f47fef0709f3d8b57e95a1b5f9879b76b0fd"
 metafile = true
 
 [[files]]
