@@ -1,0 +1,13 @@
+name = "Dispensive Cauldrons"
+filename = "dispensive_cauldrons-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/puYyhTW6/versions/jgX6bipa/dispensive_cauldrons-1.1.1.jar"
+hash-format = "sha512"
+hash = "7a918326645c63d091703affbe4924eea7443de770bc0364168527b013aac715c117da416b22df6736d9bae2e748107d2f6971cd28c882a08b5bc474ace9bd27"
+
+[update]
+[update.modrinth]
+mod-id = "puYyhTW6"
+version = "jgX6bipa"
