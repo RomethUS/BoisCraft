@@ -1,0 +1,13 @@
+name = "Visual Health"
+filename = "visualhealth-fabric-1.21.11-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X01iuqRJ/versions/oWDA7yVc/visualhealth-fabric-1.21.11-2.0.1.jar"
+hash-format = "sha512"
+hash = "89a1540dd604d92efdb0129a86b77c95fe02870d243653f53bf797cff6c612bfd111d0c843651acfc359042b46b3711a0a0228b87cf02aaedc0d85fa3ac30b2e"
+
+[update]
+[update.modrinth]
+mod-id = "X01iuqRJ"
+version = "oWDA7yVc"

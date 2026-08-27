@@ -325,6 +325,11 @@ hash = "b74e29a4d3ddf5cbd67355db2cdb02fae0fa6d930b1a232ade04a5e30030ef11"
 metafile = true
 
 [[files]]
+file = "mods/bettercauldrons.pw.toml"
+hash = "a4d48bed087131828ceea183fc15ba99251ae59cb362523edbf318b3b86f280a"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "37ed89ccdb16610fa74aa91877f836145a350598bfd5e8a3f63369ba59be2310"
 metafile = true
@@ -420,6 +425,11 @@ hash = "eb7903d345e8f8131561fc51bfd702ddd355c675661921af08e9d8499e7a8d7c"
 metafile = true
 
 [[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "2cd242fedbd3754d67963310e1356a28294e158b3153ce3130ec81b413532aac"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "87c2bbc77e2ca2866fc48c4b05cbab49b1ca30510f37612f6496b9cee1d03c74"
 metafile = true
@@ -427,6 +437,16 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "07db8fce5d52ac799aeb81568c17db506608563511cd3432e8778be7069d67af"
+metafile = true
+
+[[files]]
+file = "mods/config-search.pw.toml"
+hash = "21cf5ebd7ac4539809bcb1800301ab70a97ff13bafae346520d310323bcadf9f"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "cb07f1e3b039be7c3e0e2fe4ad8289e9e800c66a4c4f4e5eb244d1a26dd542d3"
 metafile = true
 
 [[files]]
@@ -830,6 +850,11 @@ hash = "08aa551852ddebfe6ab99d51d3b036aec441625989404b23165c5f27fa921457"
 metafile = true
 
 [[files]]
+file = "mods/health_indicator.pw.toml"
+hash = "3194b4c8f30863389a83570ef8f8fc7d62c2aea160713227932063c52a32c8a9"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "845107052e92be3225e8d2e939552b090119c86ccdf6b12b9ec44e993054e742"
 metafile = true
@@ -897,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/katters-structures.pw.toml"
 hash = "6b901730150e977770c7fcfdeaaf3e65e083786c616505175dc1917cfd5f0115"
+metafile = true
+
+[[files]]
+file = "mods/ketkets-better-cauldrons.pw.toml"
+hash = "e348924533d373c363fb23d22bdaccf8095e4b8df280af3618bdac820fdf3be9"
 metafile = true
 
 [[files]]
@@ -1060,6 +1090,11 @@ hash = "3f0449bb15482e4755703638bb343407accece8208ac6df225623db2852523a1"
 metafile = true
 
 [[files]]
+file = "mods/more-heart-types.pw.toml"
+hash = "7d4dbd978498e97feaa7e429d79987f738844f49ba9c13d6c28de913c71166e4"
+metafile = true
+
+[[files]]
 file = "mods/more-lights.pw.toml"
 hash = "fa5887d7a73a779477119c1a6133ae3606c1938840bb873e48bbdf864c25300d"
 metafile = true
@@ -1082,6 +1117,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "93e5023b9b45c297a69ee769941b4c6a7f65eeb3f2baa569ad52f3d5aa8de398"
+metafile = true
+
+[[files]]
+file = "mods/new-health-bars.pw.toml"
+hash = "9781a2cff988f6832d6d06edc5477881c02435496351d70e8e46f92c8d34dbae"
 metafile = true
 
 [[files]]
@@ -1137,6 +1177,16 @@ metafile = true
 [[files]]
 file = "mods/ohmega.pw.toml"
 hash = "6bcdbbdef804f786b3659dbc949cf99afd1cde8b0f49b758d54a6cfedd3f2c98"
+metafile = true
+
+[[files]]
+file = "mods/otterlib.pw.toml"
+hash = "a7aaa19d5a9df2b847686f17f8bdd80ded4097a3880fb89a30175a14ae45c5e2"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "c7a4c2b6471d78cf32d19b99521e5ac5c71de8bb4524e1da3db149484d39716c"
 metafile = true
 
 [[files]]
@@ -1462,6 +1512,11 @@ metafile = true
 [[files]]
 file = "mods/visual-jukebox.pw.toml"
 hash = "cea917bcc2bc16aa236acfc75ac78222aca34687ab1e3eeaa9cc802d40d081e4"
+metafile = true
+
+[[files]]
+file = "mods/visualhealth.pw.toml"
+hash = "05b88ddf3e0d5120845c60a0296c83d5f8a880e91fed7ff7ffd7a019eb3511d0"
 metafile = true
 
 [[files]]

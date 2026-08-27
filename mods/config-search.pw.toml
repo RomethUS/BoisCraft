@@ -1,0 +1,13 @@
+name = "Config Search"
+filename = "configsearch-1.0.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wsGFU1GE/versions/SWjzdCFF/configsearch-1.0.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "52d95eb1a2f94190dad1693966d9d53f638ff3e5dad78b7f9898f4bff22decfb1d06b8918c295f7d7c35f1ecc1b8365da9fd8c8e3468fa7143e99868d1c5eaa2"
+
+[update]
+[update.modrinth]
+mod-id = "wsGFU1GE"
+version = "SWjzdCFF"

@@ -1,0 +1,13 @@
+name = "Better Cauldrons"
+filename = "ketkets-better-cauldrons-0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ALScsBGY/versions/7Ii8fIDs/ketkets-better-cauldrons-0.4.jar"
+hash-format = "sha512"
+hash = "2b3606a5279dd401d0888c2beb50ec03bef3c84b21243d349f4f0d71fdc912abc595420d5a0f0c3c714432fe05e13bcfe3b9ffe62cd152da4c8b2665a4be917e"
+
+[update]
+[update.modrinth]
+mod-id = "ALScsBGY"
+version = "7Ii8fIDs"

@@ -1,0 +1,13 @@
+name = "More Heart Types"
+filename = "more_heart_types-fabric-1.1.1.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJ465X71/versions/9ETpV9dK/more_heart_types-fabric-1.1.1.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "556b601d69cc01fd92beebbee53d351481653d0361ddb93d0f2d406f7abdb61bba7916e71849d9ff7bf8b73fc84fb35dc2362e4a448bae751cf14eff3942b7b9"
+
+[update]
+[update.modrinth]
+mod-id = "HJ465X71"
+version = "9ETpV9dK"
