@@ -120,11 +120,6 @@ hash = "971388d18d06b541dae98736aa6ebf99a24d7f4fe87a3d06552cac61c58aa962"
 metafile = true
 
 [[files]]
-file = "mods/animal-garden-mouse.pw.toml"
-hash = "0ca2ed460c0b69ae90d5c294df536261ecb1b0ecade6b97195f402fad664b2ac"
-metafile = true
-
-[[files]]
 file = "mods/animal-garden-narwhal.pw.toml"
 hash = "c8e8a1edf406004ee91158cf4249afa2e4f682a948cec5fd7d7ccf13e6d15954"
 metafile = true
@@ -322,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "b74e29a4d3ddf5cbd67355db2cdb02fae0fa6d930b1a232ade04a5e30030ef11"
-metafile = true
-
-[[files]]
-file = "mods/bettercauldrons.pw.toml"
-hash = "a4d48bed087131828ceea183fc15ba99251ae59cb362523edbf318b3b86f280a"
 metafile = true
 
 [[files]]
