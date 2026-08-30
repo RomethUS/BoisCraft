@@ -1111,7 +1111,7 @@ metafile = true
 
 [[files]]
 file = "mods/new-health-bars.pw.toml"
-hash = "9781a2cff988f6832d6d06edc5477881c02435496351d70e8e46f92c8d34dbae"
+hash = "a43330806f8999d676fd44e2d65eb295d988a1f247769391a45d063d15cc6956"
 metafile = true
 
 [[files]]

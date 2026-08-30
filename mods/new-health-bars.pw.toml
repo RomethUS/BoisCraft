@@ -11,3 +11,8 @@ hash = "1607d32b7f82a109c78e4842ab602148e58e29bb2c4a652ecf84b189f16fce8bf5303f51
 [update.modrinth]
 mod-id = "A3VSiTms"
 version = "Jm91kYos"
+
+[option]
+optional = true
+default = false
+description = "Health Bars - Customizeable"
